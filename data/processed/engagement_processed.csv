@@ -1,0 +1,1471 @@
+EmployeeID,Department,JobRole,PerformanceRating,EngagementScore,SatisfactionScore,WorkLifeBalanceScore,AttendanceRate,LastReviewDate
+1,Sales,Sales Executive,3,81,4,1,98.8,2026-06-15
+2,Research & Development,Research Scientist,4,100,2,3,91.6,2026-06-15
+4,Research & Development,Laboratory Technician,3,100,3,3,93.5,2026-06-15
+5,Research & Development,Research Scientist,3,100,3,3,94.1,2026-06-15
+7,Research & Development,Laboratory Technician,3,96,2,3,90.9,2026-06-15
+8,Research & Development,Laboratory Technician,3,100,4,2,96.6,2026-06-15
+10,Research & Development,Laboratory Technician,4,84,1,2,93.5,2026-06-15
+11,Research & Development,Laboratory Technician,4,100,3,3,95.7,2026-06-15
+12,Research & Development,Manufacturing Director,4,100,3,3,90.5,2026-06-15
+13,Research & Development,Healthcare Representative,3,100,3,2,92.3,2026-06-15
+14,Research & Development,Laboratory Technician,3,90,2,3,96.9,2026-06-15
+15,Research & Development,Laboratory Technician,3,100,3,3,92.5,2026-06-15
+16,Research & Development,Research Scientist,3,100,3,2,100.0,2026-06-15
+18,Research & Development,Laboratory Technician,3,100,4,3,92.4,2026-06-15
+19,Research & Development,Laboratory Technician,3,91,3,3,94.9,2026-06-15
+20,Research & Development,Manufacturing Director,3,85,1,3,97.7,2026-06-15
+21,Research & Development,Research Scientist,3,82,2,2,88.3,2026-06-15
+22,Research & Development,Laboratory Technician,3,100,4,2,87.0,2026-06-15
+23,Sales,Manager,3,100,4,3,87.9,2026-06-15
+24,Research & Development,Research Scientist,3,100,4,3,99.1,2026-06-15
+26,Research & Development,Manufacturing Director,3,100,3,2,91.8,2026-06-15
+27,Sales,Sales Representative,4,75,1,3,100.0,2026-06-15
+28,Research & Development,Research Director,3,92,2,3,91.7,2026-06-15
+30,Research & Development,Research Scientist,3,100,4,3,94.7,2026-06-15
+31,Research & Development,Research Scientist,3,70,1,3,100.0,2026-06-15
+32,Research & Development,Manager,3,100,3,2,100.0,2026-06-15
+33,Research & Development,Research Scientist,4,62,1,3,100.0,2026-06-15
+35,Sales,Sales Executive,3,100,2,3,98.8,2026-06-15
+36,Research & Development,Healthcare Representative,3,100,4,3,98.1,2026-06-15
+38,Sales,Manager,3,82,1,2,96.4,2026-06-15
+39,Research & Development,Laboratory Technician,3,100,4,3,97.1,2026-06-15
+40,Research & Development,Healthcare Representative,3,100,4,4,91.8,2026-06-15
+41,Research & Development,Laboratory Technician,3,100,3,3,90.7,2026-06-15
+42,Sales,Sales Representative,3,100,4,4,94.0,2026-06-15
+45,Research & Development,Research Scientist,3,93,4,2,93.3,2026-06-15
+46,Research & Development,Research Scientist,3,100,3,2,92.2,2026-06-15
+47,Sales,Sales Representative,3,90,3,3,96.8,2026-06-15
+49,Sales,Sales Representative,3,100,4,3,97.8,2026-06-15
+51,Research & Development,Research Scientist,3,96,1,4,94.4,2026-06-15
+52,Sales,Sales Executive,3,87,1,3,99.9,2026-06-15
+53,Research & Development,Laboratory Technician,3,100,4,3,89.4,2026-06-15
+54,Research & Development,Laboratory Technician,3,100,1,3,93.2,2026-06-15
+55,Research & Development,Laboratory Technician,3,78,3,2,91.1,2026-06-15
+56,Sales,Sales Executive,3,100,3,3,86.5,2026-06-15
+57,Research & Development,Laboratory Technician,4,100,4,3,93.7,2026-06-15
+58,Research & Development,Research Director,3,98,3,3,93.5,2026-06-15
+60,Sales,Sales Executive,4,100,3,3,100.0,2026-06-15
+61,Research & Development,Research Scientist,4,95,2,3,96.5,2026-06-15
+62,Sales,Sales Executive,4,100,4,3,89.9,2026-06-15
+63,Research & Development,Laboratory Technician,3,100,4,3,100.0,2026-06-15
+64,Research & Development,Laboratory Technician,3,96,3,3,98.9,2026-06-15
+65,Research & Development,Laboratory Technician,3,93,3,2,96.3,2026-06-15
+68,Sales,Sales Executive,4,75,1,2,93.1,2026-06-15
+70,Research & Development,Healthcare Representative,3,99,1,3,90.2,2026-06-15
+72,Sales,Sales Executive,3,100,4,2,92.5,2026-06-15
+73,Research & Development,Research Director,3,100,4,3,98.4,2026-06-15
+74,Sales,Sales Executive,4,79,1,2,100.0,2026-06-15
+75,Research & Development,Laboratory Technician,3,94,1,3,100.0,2026-06-15
+76,Research & Development,Laboratory Technician,4,100,4,2,92.0,2026-06-15
+77,Research & Development,Manufacturing Director,3,100,3,4,89.5,2026-06-15
+78,Research & Development,Manufacturing Director,4,100,4,3,94.6,2026-06-15
+79,Research & Development,Laboratory Technician,3,100,4,3,86.9,2026-06-15
+80,Research & Development,Research Director,3,100,3,2,95.3,2026-06-15
+81,Sales,Sales Executive,3,69,1,2,93.4,2026-06-15
+83,Research & Development,Healthcare Representative,3,100,3,3,92.1,2026-06-15
+84,Research & Development,Manager,3,100,3,3,87.6,2026-06-15
+85,Research & Development,Manufacturing Director,3,100,2,3,96.1,2026-06-15
+86,Research & Development,Research Scientist,3,93,1,3,91.9,2026-06-15
+88,Research & Development,Research Scientist,3,85,1,2,89.3,2026-06-15
+90,Research & Development,Research Scientist,3,90,3,2,82.5,2026-06-15
+91,Sales,Sales Executive,3,100,3,2,93.9,2026-06-15
+94,Research & Development,Research Scientist,4,100,2,3,100.0,2026-06-15
+95,Research & Development,Research Scientist,3,100,2,3,100.0,2026-06-15
+96,Research & Development,Research Scientist,3,100,2,3,92.2,2026-06-15
+97,Research & Development,Laboratory Technician,3,100,4,3,91.6,2026-06-15
+98,Research & Development,Manufacturing Director,4,100,4,3,95.9,2026-06-15
+100,Sales,Sales Executive,3,91,1,3,90.0,2026-06-15
+101,Research & Development,Research Director,3,100,1,4,95.2,2026-06-15
+102,Research & Development,Research Director,3,100,3,4,97.1,2026-06-15
+103,Human Resources,Human Resources,4,95,2,3,98.9,2026-06-15
+104,Research & Development,Laboratory Technician,3,100,4,2,93.6,2026-06-15
+105,Research & Development,Research Scientist,3,100,3,3,93.2,2026-06-15
+106,Sales,Sales Executive,3,100,4,3,90.5,2026-06-15
+107,Research & Development,Research Scientist,3,100,4,3,90.7,2026-06-15
+110,Research & Development,Manufacturing Director,3,88,2,3,93.1,2026-06-15
+112,Research & Development,Manufacturing Director,3,100,4,2,95.5,2026-06-15
+113,Sales,Sales Representative,3,100,1,3,97.7,2026-06-15
+116,Research & Development,Laboratory Technician,4,100,4,3,90.8,2026-06-15
+117,Research & Development,Healthcare Representative,3,100,4,3,100.0,2026-06-15
+118,Sales,Sales Executive,3,100,4,3,92.9,2026-06-15
+119,Research & Development,Healthcare Representative,4,100,2,2,93.9,2026-06-15
+120,Sales,Sales Executive,4,100,4,1,91.0,2026-06-15
+121,Sales,Sales Executive,3,89,2,2,84.3,2026-06-15
+124,Research & Development,Healthcare Representative,3,84,1,2,97.5,2026-06-15
+125,Sales,Sales Executive,3,100,3,3,96.9,2026-06-15
+126,Research & Development,Research Director,3,67,3,1,92.9,2026-06-15
+128,Sales,Sales Executive,4,85,3,2,94.3,2026-06-15
+129,Sales,Sales Executive,3,100,3,4,96.1,2026-06-15
+131,Sales,Sales Executive,3,100,3,2,87.7,2026-06-15
+132,Research & Development,Laboratory Technician,3,100,2,4,91.9,2026-06-15
+133,Human Resources,Human Resources,4,79,1,3,97.2,2026-06-15
+134,Research & Development,Research Scientist,3,100,1,3,89.0,2026-06-15
+137,Research & Development,Laboratory Technician,3,100,4,3,95.2,2026-06-15
+138,Research & Development,Research Scientist,3,100,3,3,88.6,2026-06-15
+139,Research & Development,Healthcare Representative,3,100,4,4,95.9,2026-06-15
+140,Human Resources,Manager,4,100,4,3,93.9,2026-06-15
+141,Research & Development,Research Director,3,81,2,2,87.5,2026-06-15
+142,Sales,Sales Executive,3,100,3,3,98.7,2026-06-15
+143,Research & Development,Research Scientist,3,100,4,3,91.1,2026-06-15
+144,Research & Development,Laboratory Technician,3,100,4,3,90.8,2026-06-15
+145,Research & Development,Healthcare Representative,4,60,1,2,94.8,2026-06-15
+147,Research & Development,Laboratory Technician,4,94,3,3,98.6,2026-06-15
+148,Human Resources,Manager,3,100,4,3,89.9,2026-06-15
+150,Research & Development,Laboratory Technician,3,100,3,3,94.2,2026-06-15
+151,Research & Development,Research Scientist,3,100,2,3,95.7,2026-06-15
+152,Sales,Sales Executive,3,100,4,3,96.8,2026-06-15
+153,Research & Development,Manager,3,100,1,3,94.7,2026-06-15
+154,Sales,Sales Executive,3,100,4,3,92.5,2026-06-15
+155,Research & Development,Laboratory Technician,4,100,4,3,90.7,2026-06-15
+158,Sales,Manager,3,100,4,4,94.3,2026-06-15
+159,Research & Development,Research Scientist,4,98,3,2,89.7,2026-06-15
+160,Sales,Sales Executive,3,100,2,4,82.3,2026-06-15
+161,Research & Development,Research Scientist,3,82,2,3,95.7,2026-06-15
+162,Research & Development,Research Director,3,97,3,3,97.6,2026-06-15
+163,Sales,Sales Executive,3,85,3,2,84.5,2026-06-15
+164,Research & Development,Research Scientist,3,100,2,2,90.0,2026-06-15
+165,Research & Development,Healthcare Representative,3,100,4,2,96.5,2026-06-15
+167,Sales,Sales Representative,3,100,3,2,100.0,2026-06-15
+169,Research & Development,Laboratory Technician,3,100,4,3,94.1,2026-06-15
+170,Research & Development,Manufacturing Director,3,83,1,2,91.1,2026-06-15
+171,Research & Development,Research Scientist,3,100,3,3,93.3,2026-06-15
+174,Sales,Sales Executive,3,100,4,3,99.5,2026-06-15
+175,Sales,Sales Executive,3,92,3,3,91.4,2026-06-15
+176,Sales,Sales Executive,3,100,3,3,90.8,2026-06-15
+177,Human Resources,Human Resources,4,100,3,3,92.1,2026-06-15
+178,Research & Development,Manufacturing Director,4,100,2,3,90.2,2026-06-15
+179,Research & Development,Manufacturing Director,3,100,4,3,94.5,2026-06-15
+182,Sales,Sales Executive,3,100,3,4,100.0,2026-06-15
+183,Sales,Sales Executive,3,100,3,3,95.3,2026-06-15
+184,Human Resources,Human Resources,3,100,4,1,93.0,2026-06-15
+190,Research & Development,Laboratory Technician,4,66,1,4,92.8,2026-06-15
+192,Research & Development,Research Scientist,3,100,4,2,87.7,2026-06-15
+193,Research & Development,Research Scientist,4,100,3,3,97.5,2026-06-15
+194,Research & Development,Research Scientist,3,95,3,2,93.7,2026-06-15
+195,Sales,Sales Executive,3,100,4,4,93.3,2026-06-15
+197,Research & Development,Research Scientist,3,100,1,3,100.0,2026-06-15
+198,Research & Development,Laboratory Technician,3,100,4,3,95.2,2026-06-15
+199,Research & Development,Manager,3,82,1,2,91.0,2026-06-15
+200,Research & Development,Laboratory Technician,4,100,1,3,92.3,2026-06-15
+201,Research & Development,Laboratory Technician,3,100,2,3,98.6,2026-06-15
+202,Research & Development,Research Scientist,3,91,2,3,94.5,2026-06-15
+204,Sales,Sales Executive,3,100,2,3,88.2,2026-06-15
+205,Sales,Sales Representative,4,94,3,1,97.7,2026-06-15
+206,Research & Development,Laboratory Technician,3,81,2,1,91.3,2026-06-15
+207,Sales,Sales Executive,3,100,4,3,100.0,2026-06-15
+208,Research & Development,Manufacturing Director,3,100,3,3,98.3,2026-06-15
+211,Research & Development,Manufacturing Director,3,100,3,3,92.2,2026-06-15
+214,Research & Development,Research Scientist,4,87,2,2,99.1,2026-06-15
+215,Sales,Sales Executive,3,100,4,2,94.3,2026-06-15
+216,Sales,Sales Representative,3,100,3,3,97.4,2026-06-15
+217,Research & Development,Research Scientist,4,100,4,3,95.9,2026-06-15
+218,Research & Development,Research Scientist,3,100,2,1,90.6,2026-06-15
+221,Research & Development,Research Scientist,3,100,4,1,91.4,2026-06-15
+223,Research & Development,Healthcare Representative,3,100,4,1,98.1,2026-06-15
+224,Research & Development,Research Scientist,3,100,3,2,92.7,2026-06-15
+226,Research & Development,Manager,3,100,2,3,92.4,2026-06-15
+227,Research & Development,Research Scientist,3,98,3,3,90.2,2026-06-15
+228,Sales,Sales Executive,3,100,4,3,95.7,2026-06-15
+230,Sales,Sales Executive,4,100,4,4,100.0,2026-06-15
+231,Research & Development,Research Scientist,4,100,3,3,89.7,2026-06-15
+233,Research & Development,Research Scientist,3,99,2,2,94.1,2026-06-15
+235,Sales,Sales Representative,4,77,1,4,99.6,2026-06-15
+238,Research & Development,Laboratory Technician,3,100,2,2,93.7,2026-06-15
+239,Research & Development,Laboratory Technician,3,98,1,3,95.8,2026-06-15
+240,Sales,Sales Executive,3,97,1,4,89.8,2026-06-15
+241,Research & Development,Research Scientist,3,100,1,3,95.7,2026-06-15
+242,Research & Development,Research Scientist,3,100,4,4,93.3,2026-06-15
+243,Research & Development,Laboratory Technician,4,100,4,2,97.9,2026-06-15
+244,Sales,Sales Executive,4,87,1,3,98.7,2026-06-15
+245,Research & Development,Laboratory Technician,3,100,4,3,100.0,2026-06-15
+246,Research & Development,Research Scientist,4,100,4,3,96.3,2026-06-15
+247,Research & Development,Research Scientist,3,100,2,3,95.3,2026-06-15
+248,Sales,Sales Representative,4,75,2,2,94.8,2026-06-15
+249,Research & Development,Laboratory Technician,3,100,3,2,92.6,2026-06-15
+250,Research & Development,Manufacturing Director,3,100,1,3,95.4,2026-06-15
+252,Research & Development,Research Scientist,3,100,2,3,92.8,2026-06-15
+253,Research & Development,Manager,3,100,3,3,94.7,2026-06-15
+254,Research & Development,Research Director,3,100,2,3,99.3,2026-06-15
+256,Research & Development,Manufacturing Director,3,100,3,2,90.0,2026-06-15
+258,Research & Development,Healthcare Representative,3,100,2,3,98.6,2026-06-15
+259,Research & Development,Manager,3,100,3,3,99.3,2026-06-15
+260,Research & Development,Research Scientist,3,100,2,2,93.5,2026-06-15
+261,Research & Development,Manufacturing Director,3,88,3,3,85.5,2026-06-15
+262,Research & Development,Research Scientist,3,100,4,4,91.6,2026-06-15
+264,Research & Development,Manager,4,100,4,3,99.2,2026-06-15
+267,Research & Development,Research Scientist,3,70,1,2,93.9,2026-06-15
+269,Research & Development,Laboratory Technician,3,100,2,3,90.0,2026-06-15
+270,Research & Development,Manufacturing Director,3,100,3,3,92.0,2026-06-15
+271,Research & Development,Manufacturing Director,3,100,3,3,97.4,2026-06-15
+273,Research & Development,Manufacturing Director,3,100,4,1,96.2,2026-06-15
+274,Research & Development,Manufacturing Director,3,98,1,3,93.0,2026-06-15
+275,Research & Development,Manufacturing Director,3,100,4,3,92.5,2026-06-15
+277,Research & Development,Research Scientist,3,100,3,4,92.4,2026-06-15
+281,Research & Development,Laboratory Technician,3,100,4,4,90.3,2026-06-15
+282,Research & Development,Healthcare Representative,3,61,1,3,100.0,2026-06-15
+283,Sales,Sales Executive,4,99,4,2,92.7,2026-06-15
+284,Research & Development,Research Scientist,3,99,2,2,98.9,2026-06-15
+286,Research & Development,Laboratory Technician,3,100,4,3,100.0,2026-06-15
+287,Research & Development,Healthcare Representative,3,100,4,1,98.0,2026-06-15
+288,Research & Development,Healthcare Representative,3,100,1,3,92.3,2026-06-15
+291,Sales,Sales Executive,3,100,4,2,95.6,2026-06-15
+292,Research & Development,Manufacturing Director,4,100,3,3,93.9,2026-06-15
+293,Sales,Sales Executive,3,100,3,3,90.4,2026-06-15
+296,Research & Development,Research Director,3,88,2,1,95.3,2026-06-15
+297,Research & Development,Research Scientist,3,87,1,3,89.3,2026-06-15
+298,Sales,Manager,3,100,4,3,98.8,2026-06-15
+299,Sales,Sales Executive,3,67,1,2,92.1,2026-06-15
+300,Research & Development,Research Scientist,3,99,3,2,94.8,2026-06-15
+302,Sales,Sales Executive,3,100,4,3,95.1,2026-06-15
+303,Sales,Sales Executive,3,100,1,3,93.0,2026-06-15
+304,Research & Development,Laboratory Technician,3,100,2,4,96.3,2026-06-15
+305,Research & Development,Research Scientist,4,100,2,3,92.1,2026-06-15
+306,Research & Development,Research Director,3,100,4,3,97.5,2026-06-15
+307,Sales,Sales Executive,3,86,3,2,88.6,2026-06-15
+308,Research & Development,Manufacturing Director,3,100,3,3,94.5,2026-06-15
+309,Research & Development,Research Scientist,3,100,4,3,100.0,2026-06-15
+311,Sales,Sales Representative,3,100,4,3,90.0,2026-06-15
+312,Sales,Sales Executive,3,100,4,3,91.3,2026-06-15
+314,Sales,Sales Executive,3,100,3,4,96.1,2026-06-15
+315,Research & Development,Research Scientist,3,100,4,2,94.7,2026-06-15
+316,Research & Development,Laboratory Technician,3,100,4,2,95.4,2026-06-15
+319,Research & Development,Manager,3,100,4,3,96.0,2026-06-15
+321,Human Resources,Human Resources,3,100,3,2,96.5,2026-06-15
+323,Sales,Manager,3,100,4,2,98.4,2026-06-15
+325,Research & Development,Laboratory Technician,3,100,4,1,95.6,2026-06-15
+327,Sales,Manager,4,100,4,3,93.0,2026-06-15
+328,Research & Development,Laboratory Technician,4,55,1,4,96.7,2026-06-15
+329,Sales,Manager,3,100,3,4,100.0,2026-06-15
+330,Sales,Sales Representative,3,95,2,3,93.5,2026-06-15
+331,Research & Development,Laboratory Technician,3,100,3,1,90.1,2026-06-15
+332,Research & Development,Laboratory Technician,3,100,3,3,98.4,2026-06-15
+333,Sales,Sales Executive,3,100,4,3,93.5,2026-06-15
+334,Research & Development,Research Scientist,3,79,1,2,85.3,2026-06-15
+335,Research & Development,Research Scientist,3,100,4,3,97.4,2026-06-15
+336,Research & Development,Manager,3,100,4,3,91.9,2026-06-15
+337,Research & Development,Research Director,3,100,3,3,93.6,2026-06-15
+338,Research & Development,Research Scientist,3,100,4,2,95.3,2026-06-15
+339,Research & Development,Manufacturing Director,3,96,1,3,94.8,2026-06-15
+340,Research & Development,Research Scientist,3,85,1,2,96.8,2026-06-15
+341,Research & Development,Manufacturing Director,3,100,3,3,92.3,2026-06-15
+342,Research & Development,Manufacturing Director,3,78,3,3,96.1,2026-06-15
+343,Research & Development,Healthcare Representative,4,100,3,3,93.0,2026-06-15
+346,Research & Development,Research Scientist,3,100,4,3,97.0,2026-06-15
+347,Research & Development,Research Scientist,3,100,1,3,96.5,2026-06-15
+349,Sales,Sales Executive,3,100,4,3,90.3,2026-06-15
+350,Research & Development,Manufacturing Director,3,100,3,3,98.3,2026-06-15
+351,Research & Development,Laboratory Technician,3,100,1,3,91.9,2026-06-15
+352,Research & Development,Research Director,3,100,3,3,97.2,2026-06-15
+353,Research & Development,Research Scientist,3,100,4,2,95.5,2026-06-15
+355,Research & Development,Laboratory Technician,3,100,2,4,100.0,2026-06-15
+359,Research & Development,Laboratory Technician,4,75,2,1,93.1,2026-06-15
+361,Sales,Sales Executive,3,100,4,3,92.6,2026-06-15
+362,Research & Development,Laboratory Technician,3,93,1,3,93.9,2026-06-15
+363,Sales,Manager,3,88,2,2,92.8,2026-06-15
+364,Research & Development,Laboratory Technician,3,68,3,1,97.2,2026-06-15
+366,Sales,Sales Executive,3,81,2,3,87.5,2026-06-15
+367,Research & Development,Healthcare Representative,4,100,4,3,89.8,2026-06-15
+369,Research & Development,Healthcare Representative,3,86,1,3,89.7,2026-06-15
+372,Research & Development,Healthcare Representative,3,100,4,3,97.8,2026-06-15
+373,Research & Development,Laboratory Technician,3,100,4,3,100.0,2026-06-15
+374,Research & Development,Manager,3,100,1,3,93.6,2026-06-15
+376,Research & Development,Manager,3,65,2,2,93.3,2026-06-15
+377,Research & Development,Research Scientist,4,100,4,2,94.3,2026-06-15
+378,Sales,Sales Executive,3,100,4,4,98.6,2026-06-15
+379,Research & Development,Research Scientist,3,100,3,4,90.3,2026-06-15
+380,Research & Development,Research Director,3,100,4,3,95.0,2026-06-15
+381,Research & Development,Manager,3,86,2,2,97.9,2026-06-15
+382,Sales,Sales Executive,4,77,1,3,96.0,2026-06-15
+384,Research & Development,Manufacturing Director,4,78,2,1,94.8,2026-06-15
+385,Research & Development,Research Director,3,70,2,2,98.0,2026-06-15
+386,Research & Development,Research Director,3,100,3,2,83.2,2026-06-15
+387,Sales,Sales Executive,4,100,3,3,96.7,2026-06-15
+388,Sales,Sales Executive,3,100,4,2,91.4,2026-06-15
+389,Research & Development,Laboratory Technician,3,100,4,3,86.7,2026-06-15
+390,Research & Development,Healthcare Representative,3,91,1,3,96.0,2026-06-15
+391,Research & Development,Research Scientist,3,100,4,3,99.5,2026-06-15
+392,Research & Development,Laboratory Technician,4,97,3,1,93.5,2026-06-15
+393,Research & Development,Healthcare Representative,3,100,4,3,97.8,2026-06-15
+394,Research & Development,Laboratory Technician,3,83,2,3,100.0,2026-06-15
+395,Research & Development,Research Scientist,4,100,4,3,99.3,2026-06-15
+396,Research & Development,Research Director,3,100,1,3,100.0,2026-06-15
+397,Research & Development,Research Scientist,3,100,2,3,97.0,2026-06-15
+399,Sales,Sales Representative,3,100,2,2,94.3,2026-06-15
+401,Sales,Sales Executive,3,100,4,3,87.6,2026-06-15
+403,Research & Development,Research Scientist,3,100,4,2,93.0,2026-06-15
+404,Sales,Sales Executive,3,100,2,4,90.6,2026-06-15
+405,Research & Development,Laboratory Technician,3,100,3,3,100.0,2026-06-15
+406,Sales,Sales Executive,3,100,2,2,93.3,2026-06-15
+407,Research & Development,Laboratory Technician,3,100,4,3,94.5,2026-06-15
+408,Research & Development,Manufacturing Director,3,100,2,3,96.2,2026-06-15
+410,Sales,Manager,3,100,2,3,94.2,2026-06-15
+411,Sales,Sales Representative,3,100,3,3,100.0,2026-06-15
+412,Research & Development,Healthcare Representative,3,92,1,3,91.5,2026-06-15
+416,Sales,Sales Executive,3,100,4,2,94.8,2026-06-15
+417,Research & Development,Healthcare Representative,3,100,4,2,91.0,2026-06-15
+419,Research & Development,Laboratory Technician,3,100,2,3,88.7,2026-06-15
+420,Sales,Sales Executive,3,100,3,2,91.6,2026-06-15
+421,Research & Development,Research Director,3,89,2,3,93.9,2026-06-15
+422,Research & Development,Healthcare Representative,3,100,3,3,92.3,2026-06-15
+423,Research & Development,Research Scientist,3,100,4,3,91.2,2026-06-15
+424,Human Resources,Human Resources,3,84,1,3,88.4,2026-06-15
+425,Research & Development,Laboratory Technician,3,75,1,3,93.7,2026-06-15
+426,Research & Development,Research Scientist,3,100,4,1,88.0,2026-06-15
+428,Research & Development,Manager,3,100,2,3,97.0,2026-06-15
+429,Research & Development,Manager,3,100,1,3,94.3,2026-06-15
+430,Research & Development,Laboratory Technician,3,100,4,3,88.2,2026-06-15
+431,Research & Development,Healthcare Representative,3,100,3,3,92.8,2026-06-15
+433,Research & Development,Research Scientist,3,71,2,2,91.0,2026-06-15
+434,Research & Development,Research Scientist,3,95,2,2,95.3,2026-06-15
+436,Sales,Sales Executive,3,100,2,3,99.4,2026-06-15
+437,Sales,Sales Executive,3,100,3,3,86.5,2026-06-15
+438,Sales,Sales Executive,3,100,4,3,94.5,2026-06-15
+439,Research & Development,Research Scientist,3,100,4,2,93.4,2026-06-15
+440,Research & Development,Research Scientist,3,100,4,2,96.7,2026-06-15
+441,Research & Development,Research Scientist,3,100,4,3,94.9,2026-06-15
+442,Research & Development,Manufacturing Director,4,100,3,3,91.0,2026-06-15
+444,Research & Development,Manager,3,100,4,3,92.7,2026-06-15
+445,Sales,Sales Executive,3,97,3,2,90.8,2026-06-15
+446,Sales,Sales Executive,3,100,4,2,98.3,2026-06-15
+447,Research & Development,Research Director,3,100,3,3,94.1,2026-06-15
+448,Research & Development,Laboratory Technician,3,100,3,4,100.0,2026-06-15
+449,Sales,Sales Executive,3,100,2,3,93.8,2026-06-15
+450,Research & Development,Research Scientist,3,100,3,2,91.2,2026-06-15
+451,Research & Development,Healthcare Representative,3,73,1,2,87.9,2026-06-15
+452,Research & Development,Research Scientist,3,100,4,3,86.8,2026-06-15
+453,Sales,Sales Executive,4,100,4,2,87.7,2026-06-15
+454,Research & Development,Laboratory Technician,3,64,1,2,95.1,2026-06-15
+455,Research & Development,Laboratory Technician,3,100,4,3,96.0,2026-06-15
+456,Sales,Sales Executive,3,100,3,3,87.7,2026-06-15
+458,Sales,Sales Executive,3,87,2,3,97.6,2026-06-15
+460,Research & Development,Manufacturing Director,3,100,4,2,92.1,2026-06-15
+461,Research & Development,Research Director,3,100,4,3,94.6,2026-06-15
+462,Research & Development,Manufacturing Director,3,100,4,2,100.0,2026-06-15
+463,Sales,Sales Executive,3,100,2,3,97.6,2026-06-15
+464,Research & Development,Manufacturing Director,3,100,2,3,92.9,2026-06-15
+465,Research & Development,Research Scientist,3,100,4,2,90.4,2026-06-15
+466,Research & Development,Manufacturing Director,3,100,2,3,85.4,2026-06-15
+467,Sales,Sales Representative,3,95,3,3,91.1,2026-06-15
+468,Research & Development,Research Director,3,100,4,3,93.2,2026-06-15
+469,Sales,Sales Executive,3,100,3,2,90.1,2026-06-15
+470,Human Resources,Human Resources,3,100,3,3,93.5,2026-06-15
+471,Research & Development,Laboratory Technician,3,100,2,3,94.3,2026-06-15
+473,Sales,Manager,4,83,3,1,93.1,2026-06-15
+474,Research & Development,Research Scientist,3,85,1,3,91.4,2026-06-15
+475,Sales,Sales Executive,3,100,3,4,94.7,2026-06-15
+476,Sales,Sales Executive,3,100,3,3,95.8,2026-06-15
+477,Research & Development,Healthcare Representative,4,100,4,3,89.6,2026-06-15
+478,Sales,Sales Representative,3,76,2,3,99.6,2026-06-15
+479,Sales,Sales Executive,3,100,4,3,93.6,2026-06-15
+481,Sales,Sales Executive,3,100,4,3,94.1,2026-06-15
+482,Research & Development,Healthcare Representative,3,100,3,3,96.8,2026-06-15
+483,Research & Development,Laboratory Technician,3,100,3,3,94.9,2026-06-15
+484,Sales,Sales Representative,4,100,4,2,97.8,2026-06-15
+485,Sales,Sales Representative,3,100,3,3,95.1,2026-06-15
+486,Research & Development,Laboratory Technician,4,94,1,3,91.6,2026-06-15
+487,Research & Development,Manufacturing Director,3,100,3,4,95.4,2026-06-15
+488,Sales,Sales Executive,3,78,2,3,89.4,2026-06-15
+491,Research & Development,Healthcare Representative,3,100,4,3,94.4,2026-06-15
+492,Sales,Sales Executive,3,95,3,3,93.9,2026-06-15
+493,Research & Development,Research Scientist,3,100,2,3,93.2,2026-06-15
+494,Sales,Sales Representative,3,98,2,3,93.5,2026-06-15
+495,Research & Development,Research Scientist,3,100,4,3,86.5,2026-06-15
+496,Research & Development,Healthcare Representative,3,100,2,3,91.8,2026-06-15
+497,Research & Development,Laboratory Technician,3,100,2,3,94.4,2026-06-15
+498,Sales,Sales Executive,3,100,4,3,94.6,2026-06-15
+499,Research & Development,Healthcare Representative,4,100,3,3,89.9,2026-06-15
+500,Sales,Sales Executive,3,100,4,2,99.1,2026-06-15
+501,Research & Development,Research Scientist,3,100,3,3,90.5,2026-06-15
+502,Sales,Sales Executive,3,97,4,2,97.9,2026-06-15
+505,Research & Development,Manager,3,100,4,3,95.7,2026-06-15
+507,Sales,Sales Executive,3,100,3,4,91.4,2026-06-15
+508,Sales,Sales Representative,3,95,2,3,100.0,2026-06-15
+510,Research & Development,Research Scientist,4,70,1,3,89.2,2026-06-15
+511,Research & Development,Research Scientist,3,94,2,3,97.7,2026-06-15
+513,Sales,Sales Executive,3,100,3,3,98.0,2026-06-15
+514,Research & Development,Research Scientist,4,100,4,3,91.3,2026-06-15
+515,Research & Development,Laboratory Technician,3,96,1,2,99.6,2026-06-15
+516,Sales,Sales Executive,3,100,2,3,93.0,2026-06-15
+517,Research & Development,Laboratory Technician,3,88,1,3,95.2,2026-06-15
+518,Research & Development,Manufacturing Director,3,100,2,2,95.0,2026-06-15
+520,Research & Development,Research Director,3,88,2,3,93.5,2026-06-15
+521,Research & Development,Laboratory Technician,4,100,3,3,97.2,2026-06-15
+522,Research & Development,Research Director,3,63,1,2,97.2,2026-06-15
+523,Sales,Sales Executive,3,100,3,3,87.0,2026-06-15
+524,Research & Development,Manufacturing Director,3,69,1,1,99.2,2026-06-15
+525,Research & Development,Laboratory Technician,4,100,4,3,87.4,2026-06-15
+526,Research & Development,Healthcare Representative,3,100,3,3,98.1,2026-06-15
+527,Sales,Sales Executive,3,100,4,3,98.5,2026-06-15
+529,Research & Development,Research Scientist,3,100,3,3,89.6,2026-06-15
+530,Research & Development,Laboratory Technician,3,100,1,3,92.4,2026-06-15
+531,Research & Development,Manager,3,100,3,3,89.6,2026-06-15
+532,Sales,Sales Executive,3,88,1,2,93.1,2026-06-15
+533,Sales,Sales Executive,3,100,3,3,92.8,2026-06-15
+534,Sales,Sales Executive,3,88,1,3,97.1,2026-06-15
+536,Research & Development,Laboratory Technician,3,99,1,3,99.2,2026-06-15
+538,Research & Development,Laboratory Technician,3,68,1,3,99.6,2026-06-15
+543,Research & Development,Manufacturing Director,3,100,3,3,91.8,2026-06-15
+544,Research & Development,Research Scientist,4,100,4,2,93.2,2026-06-15
+546,Research & Development,Manager,3,100,4,1,87.3,2026-06-15
+547,Research & Development,Research Scientist,3,100,3,3,90.8,2026-06-15
+548,Research & Development,Manufacturing Director,4,100,4,3,97.9,2026-06-15
+549,Research & Development,Manager,3,59,1,1,100.0,2026-06-15
+550,Research & Development,Manufacturing Director,3,100,3,2,89.1,2026-06-15
+551,Research & Development,Healthcare Representative,3,100,4,4,91.6,2026-06-15
+554,Sales,Sales Representative,3,74,2,3,93.9,2026-06-15
+555,Sales,Sales Representative,3,100,3,2,95.1,2026-06-15
+556,Research & Development,Laboratory Technician,4,100,4,3,90.8,2026-06-15
+558,Sales,Manager,3,100,3,3,95.7,2026-06-15
+560,Research & Development,Research Scientist,4,97,4,1,92.1,2026-06-15
+562,Research & Development,Laboratory Technician,3,100,4,1,93.9,2026-06-15
+564,Research & Development,Research Director,3,100,3,3,96.2,2026-06-15
+565,Research & Development,Research Scientist,3,100,2,4,94.0,2026-06-15
+566,Human Resources,Human Resources,3,100,4,4,92.3,2026-06-15
+567,Sales,Sales Executive,3,100,1,3,93.6,2026-06-15
+568,Sales,Manager,3,100,4,2,93.6,2026-06-15
+569,Research & Development,Manager,3,100,3,3,92.5,2026-06-15
+571,Research & Development,Laboratory Technician,3,100,4,2,93.0,2026-06-15
+573,Sales,Sales Executive,3,100,1,4,100.0,2026-06-15
+574,Research & Development,Manufacturing Director,3,100,4,3,96.2,2026-06-15
+575,Research & Development,Research Director,3,75,3,1,92.8,2026-06-15
+577,Research & Development,Laboratory Technician,3,100,3,3,96.8,2026-06-15
+578,Research & Development,Laboratory Technician,3,100,3,3,92.7,2026-06-15
+579,Research & Development,Research Scientist,3,100,3,3,98.7,2026-06-15
+580,Sales,Sales Executive,3,100,4,3,95.5,2026-06-15
+581,Research & Development,Manufacturing Director,4,100,2,4,93.6,2026-06-15
+582,Research & Development,Manager,3,100,3,4,95.8,2026-06-15
+584,Research & Development,Laboratory Technician,3,99,4,3,87.7,2026-06-15
+585,Sales,Sales Representative,3,99,2,3,89.5,2026-06-15
+586,Research & Development,Healthcare Representative,3,100,3,3,89.2,2026-06-15
+587,Research & Development,Healthcare Representative,3,79,3,3,94.6,2026-06-15
+590,Human Resources,Human Resources,3,75,1,3,100.0,2026-06-15
+591,Research & Development,Laboratory Technician,3,100,3,3,100.0,2026-06-15
+592,Sales,Sales Executive,3,100,4,2,96.6,2026-06-15
+593,Research & Development,Laboratory Technician,3,100,3,3,96.0,2026-06-15
+595,Sales,Sales Executive,3,100,4,3,86.8,2026-06-15
+597,Sales,Manager,4,100,2,3,91.8,2026-06-15
+599,Sales,Sales Executive,3,100,4,3,90.8,2026-06-15
+600,Sales,Sales Executive,3,100,3,3,91.5,2026-06-15
+601,Research & Development,Manufacturing Director,3,100,3,3,93.3,2026-06-15
+602,Research & Development,Laboratory Technician,3,100,3,3,92.1,2026-06-15
+604,Sales,Sales Executive,3,100,4,4,86.1,2026-06-15
+605,Research & Development,Manufacturing Director,4,100,1,2,97.0,2026-06-15
+606,Sales,Sales Executive,3,100,2,4,89.7,2026-06-15
+608,Human Resources,Human Resources,3,85,3,2,95.0,2026-06-15
+611,Research & Development,Manufacturing Director,3,100,4,4,100.0,2026-06-15
+612,Research & Development,Research Director,3,100,3,3,90.3,2026-06-15
+613,Sales,Manager,4,100,4,2,83.9,2026-06-15
+614,Sales,Sales Representative,3,85,2,3,92.9,2026-06-15
+615,Sales,Sales Executive,3,93,1,3,98.4,2026-06-15
+616,Research & Development,Healthcare Representative,3,88,3,3,100.0,2026-06-15
+618,Sales,Sales Executive,3,100,3,3,89.1,2026-06-15
+620,Sales,Sales Executive,3,100,3,3,96.0,2026-06-15
+621,Sales,Sales Executive,3,100,4,3,92.1,2026-06-15
+622,Research & Development,Laboratory Technician,3,93,4,1,93.6,2026-06-15
+623,Research & Development,Manufacturing Director,3,100,4,4,100.0,2026-06-15
+624,Research & Development,Healthcare Representative,3,98,3,2,88.0,2026-06-15
+625,Sales,Manager,3,86,1,3,95.0,2026-06-15
+626,Sales,Sales Executive,3,100,2,3,95.9,2026-06-15
+630,Research & Development,Research Scientist,3,96,1,3,98.3,2026-06-15
+631,Sales,Sales Executive,3,100,3,3,94.4,2026-06-15
+632,Sales,Sales Representative,3,100,4,3,95.2,2026-06-15
+634,Research & Development,Healthcare Representative,3,100,3,3,92.4,2026-06-15
+635,Research & Development,Manufacturing Director,3,77,2,2,95.1,2026-06-15
+638,Research & Development,Research Director,3,100,3,3,92.6,2026-06-15
+639,Research & Development,Research Scientist,3,100,4,3,96.5,2026-06-15
+641,Sales,Sales Executive,4,100,2,4,92.5,2026-06-15
+643,Research & Development,Laboratory Technician,4,100,2,3,95.5,2026-06-15
+644,Human Resources,Manager,3,94,2,3,93.9,2026-06-15
+645,Sales,Sales Representative,3,100,3,3,98.5,2026-06-15
+647,Research & Development,Laboratory Technician,3,100,3,3,93.8,2026-06-15
+648,Sales,Sales Representative,3,82,1,4,86.9,2026-06-15
+649,Research & Development,Research Scientist,3,100,4,3,99.0,2026-06-15
+650,Sales,Sales Executive,3,45,1,1,90.4,2026-06-15
+652,Research & Development,Laboratory Technician,3,100,4,3,91.4,2026-06-15
+653,Sales,Sales Executive,4,100,4,4,91.6,2026-06-15
+655,Research & Development,Research Scientist,3,87,3,2,99.5,2026-06-15
+656,Sales,Sales Executive,3,100,3,2,85.5,2026-06-15
+657,Research & Development,Research Scientist,3,100,2,4,100.0,2026-06-15
+659,Research & Development,Healthcare Representative,3,100,4,3,98.2,2026-06-15
+661,Research & Development,Research Director,3,100,4,2,94.9,2026-06-15
+662,Research & Development,Research Scientist,3,91,1,2,93.8,2026-06-15
+663,Research & Development,Laboratory Technician,3,100,3,3,95.1,2026-06-15
+664,Research & Development,Manager,3,74,1,1,96.1,2026-06-15
+665,Human Resources,Human Resources,3,100,3,4,96.6,2026-06-15
+666,Sales,Sales Representative,3,100,3,3,96.2,2026-06-15
+667,Sales,Sales Representative,3,79,1,3,94.4,2026-06-15
+669,Sales,Sales Representative,3,100,3,3,93.2,2026-06-15
+671,Research & Development,Manager,3,100,4,4,93.4,2026-06-15
+675,Research & Development,Research Scientist,4,100,3,3,93.2,2026-06-15
+677,Sales,Sales Executive,3,100,3,3,98.5,2026-06-15
+679,Research & Development,Research Scientist,3,100,4,2,96.4,2026-06-15
+680,Research & Development,Research Scientist,4,100,3,3,82.2,2026-06-15
+682,Sales,Sales Executive,4,100,1,4,96.6,2026-06-15
+683,Research & Development,Research Scientist,3,100,4,2,94.8,2026-06-15
+684,Sales,Sales Executive,3,67,1,3,93.9,2026-06-15
+686,Research & Development,Laboratory Technician,3,100,4,3,92.4,2026-06-15
+689,Research & Development,Manufacturing Director,3,100,3,3,98.5,2026-06-15
+690,Sales,Sales Executive,3,88,3,2,97.8,2026-06-15
+691,Research & Development,Research Scientist,3,100,4,3,90.9,2026-06-15
+692,Research & Development,Healthcare Representative,4,100,4,1,95.6,2026-06-15
+698,Human Resources,Human Resources,3,100,2,4,90.1,2026-06-15
+699,Research & Development,Manufacturing Director,3,100,2,3,88.5,2026-06-15
+700,Research & Development,Research Scientist,3,100,4,3,91.5,2026-06-15
+701,Research & Development,Research Scientist,3,100,3,3,97.4,2026-06-15
+702,Research & Development,Research Scientist,3,52,1,3,97.8,2026-06-15
+704,Research & Development,Laboratory Technician,3,100,3,3,96.1,2026-06-15
+705,Research & Development,Research Scientist,3,83,1,4,96.9,2026-06-15
+707,Sales,Sales Executive,4,100,2,3,96.1,2026-06-15
+709,Sales,Sales Executive,4,100,4,3,91.4,2026-06-15
+710,Research & Development,Research Scientist,3,100,4,3,95.7,2026-06-15
+712,Sales,Sales Executive,3,97,2,3,97.2,2026-06-15
+714,Sales,Sales Executive,4,100,4,3,97.0,2026-06-15
+715,Research & Development,Research Scientist,3,100,4,3,98.8,2026-06-15
+716,Research & Development,Laboratory Technician,3,100,3,3,96.8,2026-06-15
+717,Research & Development,Healthcare Representative,3,100,2,4,95.4,2026-06-15
+720,Sales,Sales Executive,3,70,3,3,98.3,2026-06-15
+721,Research & Development,Healthcare Representative,3,100,3,3,93.9,2026-06-15
+722,Sales,Sales Executive,3,100,4,2,90.5,2026-06-15
+723,Sales,Sales Executive,3,88,3,3,93.3,2026-06-15
+724,Research & Development,Healthcare Representative,3,100,4,2,91.0,2026-06-15
+725,Research & Development,Manufacturing Director,3,100,1,3,91.3,2026-06-15
+727,Research & Development,Research Director,3,100,4,3,93.4,2026-06-15
+728,Sales,Sales Executive,3,100,1,3,90.8,2026-06-15
+729,Sales,Sales Executive,4,98,1,3,92.8,2026-06-15
+730,Research & Development,Research Director,3,100,3,3,86.4,2026-06-15
+731,Human Resources,Manager,3,100,4,2,94.9,2026-06-15
+732,Sales,Sales Executive,3,81,1,3,94.0,2026-06-15
+733,Research & Development,Manufacturing Director,4,92,1,2,90.7,2026-06-15
+734,Human Resources,Manager,3,100,3,3,96.6,2026-06-15
+738,Sales,Sales Representative,3,100,2,3,97.8,2026-06-15
+741,Research & Development,Research Scientist,3,86,2,3,87.6,2026-06-15
+742,Research & Development,Research Director,3,64,1,3,90.9,2026-06-15
+743,Research & Development,Manufacturing Director,3,100,3,4,90.9,2026-06-15
+744,Research & Development,Laboratory Technician,3,100,3,3,90.2,2026-06-15
+746,Sales,Sales Executive,3,100,3,2,97.3,2026-06-15
+747,Sales,Sales Executive,4,100,4,2,93.2,2026-06-15
+749,Sales,Sales Representative,3,100,3,3,92.9,2026-06-15
+752,Research & Development,Research Scientist,3,100,3,3,86.0,2026-06-15
+754,Sales,Sales Executive,3,100,4,3,96.5,2026-06-15
+757,Research & Development,Healthcare Representative,3,100,3,3,89.0,2026-06-15
+758,Research & Development,Laboratory Technician,3,100,1,4,94.2,2026-06-15
+760,Human Resources,Human Resources,3,87,2,1,95.1,2026-06-15
+762,Research & Development,Healthcare Representative,3,100,4,2,99.4,2026-06-15
+763,Research & Development,Research Scientist,4,100,4,2,88.8,2026-06-15
+764,Research & Development,Healthcare Representative,3,76,1,1,81.9,2026-06-15
+766,Sales,Sales Representative,3,100,2,3,94.7,2026-06-15
+769,Research & Development,Laboratory Technician,3,100,4,3,100.0,2026-06-15
+771,Research & Development,Healthcare Representative,3,100,1,4,99.0,2026-06-15
+772,Research & Development,Laboratory Technician,3,100,4,3,94.8,2026-06-15
+773,Research & Development,Research Scientist,3,100,3,1,92.0,2026-06-15
+775,Research & Development,Manufacturing Director,3,89,1,3,97.2,2026-06-15
+776,Sales,Manager,3,100,1,4,90.1,2026-06-15
+780,Research & Development,Research Scientist,3,100,4,2,95.9,2026-06-15
+781,Sales,Sales Executive,4,100,4,2,96.0,2026-06-15
+783,Sales,Sales Representative,3,100,3,3,98.2,2026-06-15
+784,Research & Development,Research Scientist,3,100,3,3,100.0,2026-06-15
+785,Sales,Sales Executive,3,92,3,3,95.6,2026-06-15
+786,Sales,Sales Executive,4,100,4,3,92.0,2026-06-15
+787,Research & Development,Manager,3,85,1,3,93.9,2026-06-15
+789,Sales,Sales Executive,3,73,1,3,86.9,2026-06-15
+791,Research & Development,Research Scientist,3,100,4,3,91.2,2026-06-15
+792,Research & Development,Laboratory Technician,3,100,4,3,92.4,2026-06-15
+793,Research & Development,Healthcare Representative,3,94,3,2,91.9,2026-06-15
+796,Sales,Sales Executive,3,78,1,2,94.6,2026-06-15
+797,Research & Development,Research Scientist,3,100,4,3,90.7,2026-06-15
+799,Research & Development,Manufacturing Director,3,88,1,3,98.5,2026-06-15
+800,Sales,Sales Executive,3,100,4,3,94.0,2026-06-15
+802,Research & Development,Research Scientist,3,93,1,2,94.0,2026-06-15
+803,Research & Development,Manufacturing Director,3,78,1,3,92.7,2026-06-15
+804,Research & Development,Research Scientist,3,100,1,3,94.6,2026-06-15
+805,Sales,Sales Representative,3,100,4,2,97.3,2026-06-15
+806,Research & Development,Laboratory Technician,4,100,3,3,90.5,2026-06-15
+807,Research & Development,Healthcare Representative,4,100,2,3,91.4,2026-06-15
+808,Sales,Sales Executive,3,100,1,3,92.8,2026-06-15
+809,Research & Development,Manager,3,100,4,2,88.6,2026-06-15
+811,Research & Development,Laboratory Technician,4,82,1,3,90.7,2026-06-15
+812,Research & Development,Laboratory Technician,3,100,2,3,92.1,2026-06-15
+813,Research & Development,Laboratory Technician,4,100,3,3,97.5,2026-06-15
+815,Research & Development,Research Director,3,100,3,3,95.1,2026-06-15
+816,Research & Development,Laboratory Technician,3,74,1,3,94.8,2026-06-15
+817,Research & Development,Research Director,3,100,3,4,97.4,2026-06-15
+819,Sales,Sales Executive,3,63,1,3,93.5,2026-06-15
+820,Research & Development,Manager,3,100,4,2,95.6,2026-06-15
+823,Research & Development,Manufacturing Director,3,100,2,3,93.6,2026-06-15
+824,Research & Development,Research Scientist,4,100,3,3,95.1,2026-06-15
+825,Research & Development,Research Director,3,100,2,3,91.7,2026-06-15
+826,Research & Development,Research Scientist,3,100,3,3,84.2,2026-06-15
+827,Research & Development,Manufacturing Director,3,100,4,3,93.5,2026-06-15
+828,Research & Development,Research Scientist,3,98,3,2,99.7,2026-06-15
+829,Human Resources,Human Resources,3,100,2,3,97.7,2026-06-15
+830,Research & Development,Manufacturing Director,3,100,3,3,97.9,2026-06-15
+832,Research & Development,Laboratory Technician,3,100,3,3,98.9,2026-06-15
+833,Research & Development,Manufacturing Director,4,100,4,2,94.4,2026-06-15
+834,Research & Development,Research Scientist,3,100,3,3,94.8,2026-06-15
+836,Research & Development,Manufacturing Director,3,97,2,2,91.5,2026-06-15
+837,Research & Development,Healthcare Representative,3,79,1,2,92.7,2026-06-15
+838,Research & Development,Research Scientist,3,100,4,3,96.5,2026-06-15
+840,Sales,Sales Executive,3,100,4,4,98.8,2026-06-15
+842,Sales,Sales Executive,3,98,4,2,93.4,2026-06-15
+843,Research & Development,Research Director,4,95,1,3,92.2,2026-06-15
+844,Research & Development,Research Director,3,100,4,3,94.0,2026-06-15
+845,Research & Development,Manufacturing Director,4,100,3,4,96.4,2026-06-15
+846,Sales,Sales Executive,4,91,2,3,88.2,2026-06-15
+847,Human Resources,Human Resources,3,100,4,1,84.8,2026-06-15
+848,Research & Development,Research Scientist,3,100,3,3,91.8,2026-06-15
+850,Research & Development,Research Scientist,3,100,4,2,89.1,2026-06-15
+851,Sales,Manager,3,95,3,2,92.0,2026-06-15
+852,Research & Development,Healthcare Representative,3,100,2,2,93.4,2026-06-15
+854,Research & Development,Research Scientist,3,72,1,2,92.2,2026-06-15
+855,Sales,Sales Executive,4,71,1,3,99.8,2026-06-15
+856,Research & Development,Research Scientist,3,87,1,2,95.3,2026-06-15
+857,Sales,Sales Executive,3,100,4,2,95.2,2026-06-15
+859,Sales,Sales Executive,3,100,4,2,96.5,2026-06-15
+861,Research & Development,Research Scientist,3,100,4,2,89.4,2026-06-15
+862,Sales,Sales Executive,3,100,4,3,98.2,2026-06-15
+864,Sales,Sales Executive,3,100,1,3,93.7,2026-06-15
+865,Research & Development,Research Scientist,3,100,3,2,96.7,2026-06-15
+867,Research & Development,Manufacturing Director,4,100,4,3,89.7,2026-06-15
+868,Sales,Sales Executive,3,100,3,3,87.8,2026-06-15
+869,Human Resources,Human Resources,3,100,4,3,97.3,2026-06-15
+872,Research & Development,Manufacturing Director,4,100,4,1,95.5,2026-06-15
+874,Research & Development,Laboratory Technician,4,100,4,2,90.4,2026-06-15
+875,Research & Development,Research Scientist,3,100,4,3,90.5,2026-06-15
+878,Human Resources,Human Resources,4,78,1,3,98.5,2026-06-15
+879,Sales,Sales Executive,3,96,1,3,89.2,2026-06-15
+880,Research & Development,Manufacturing Director,4,100,3,3,100.0,2026-06-15
+881,Research & Development,Research Scientist,3,85,2,2,90.4,2026-06-15
+882,Research & Development,Laboratory Technician,3,100,4,3,96.6,2026-06-15
+885,Sales,Sales Executive,3,90,1,4,92.7,2026-06-15
+887,Research & Development,Research Scientist,3,85,1,3,96.4,2026-06-15
+888,Research & Development,Laboratory Technician,3,100,4,2,91.8,2026-06-15
+889,Sales,Sales Executive,3,100,2,3,93.3,2026-06-15
+893,Sales,Sales Representative,3,100,2,3,94.2,2026-06-15
+894,Research & Development,Laboratory Technician,3,100,4,2,90.0,2026-06-15
+895,Research & Development,Research Scientist,3,100,4,3,97.0,2026-06-15
+896,Sales,Sales Representative,3,96,3,3,91.9,2026-06-15
+897,Sales,Sales Executive,3,100,4,3,93.1,2026-06-15
+899,Research & Development,Manufacturing Director,3,100,2,3,90.0,2026-06-15
+900,Sales,Sales Representative,3,100,4,3,83.8,2026-06-15
+901,Research & Development,Research Director,3,100,4,3,93.2,2026-06-15
+902,Research & Development,Healthcare Representative,3,100,4,2,100.0,2026-06-15
+903,Sales,Sales Executive,4,100,4,3,97.1,2026-06-15
+904,Sales,Sales Executive,3,96,2,3,93.9,2026-06-15
+905,Research & Development,Manager,3,79,1,3,92.9,2026-06-15
+909,Human Resources,Human Resources,3,100,4,3,94.1,2026-06-15
+910,Human Resources,Human Resources,3,100,2,4,96.2,2026-06-15
+911,Research & Development,Laboratory Technician,4,81,4,1,89.3,2026-06-15
+912,Research & Development,Laboratory Technician,3,100,4,3,98.5,2026-06-15
+913,Research & Development,Research Scientist,3,94,1,3,96.9,2026-06-15
+916,Sales,Sales Executive,3,100,4,3,96.9,2026-06-15
+918,Research & Development,Laboratory Technician,3,100,4,2,95.8,2026-06-15
+920,Research & Development,Manufacturing Director,4,99,2,4,94.1,2026-06-15
+922,Sales,Sales Representative,3,100,3,2,96.7,2026-06-15
+923,Research & Development,Research Scientist,3,100,4,2,96.4,2026-06-15
+924,Research & Development,Healthcare Representative,3,100,4,2,92.6,2026-06-15
+925,Sales,Sales Representative,3,100,4,2,91.7,2026-06-15
+926,Research & Development,Manufacturing Director,3,96,3,4,94.4,2026-06-15
+927,Research & Development,Laboratory Technician,3,100,4,2,100.0,2026-06-15
+930,Research & Development,Research Scientist,3,100,3,3,89.0,2026-06-15
+932,Research & Development,Laboratory Technician,4,79,1,1,88.1,2026-06-15
+933,Research & Development,Research Scientist,3,100,3,3,94.7,2026-06-15
+934,Research & Development,Laboratory Technician,3,85,2,3,94.2,2026-06-15
+936,Sales,Sales Executive,3,100,3,3,94.7,2026-06-15
+939,Research & Development,Research Scientist,3,89,1,3,95.0,2026-06-15
+940,Research & Development,Healthcare Representative,3,100,2,3,93.1,2026-06-15
+941,Sales,Sales Representative,3,100,3,4,100.0,2026-06-15
+942,Research & Development,Healthcare Representative,4,100,4,1,87.6,2026-06-15
+944,Research & Development,Laboratory Technician,3,91,2,2,90.7,2026-06-15
+945,Research & Development,Research Scientist,3,100,3,2,93.6,2026-06-15
+947,Sales,Sales Executive,3,100,3,2,87.4,2026-06-15
+949,Research & Development,Research Scientist,3,100,4,3,93.3,2026-06-15
+950,Research & Development,Research Director,3,93,1,3,100.0,2026-06-15
+951,Research & Development,Laboratory Technician,4,100,2,3,94.1,2026-06-15
+952,Sales,Sales Representative,3,95,2,3,94.9,2026-06-15
+954,Sales,Sales Executive,3,71,2,2,89.0,2026-06-15
+956,Sales,Sales Executive,3,95,1,3,91.5,2026-06-15
+957,Research & Development,Laboratory Technician,3,100,1,3,92.5,2026-06-15
+958,Research & Development,Laboratory Technician,4,100,3,3,92.7,2026-06-15
+959,Sales,Sales Representative,3,100,2,4,99.1,2026-06-15
+960,Research & Development,Laboratory Technician,3,62,1,3,96.2,2026-06-15
+961,Research & Development,Healthcare Representative,3,100,4,1,89.6,2026-06-15
+964,Research & Development,Research Scientist,3,100,2,3,95.0,2026-06-15
+966,Research & Development,Manufacturing Director,3,100,1,4,96.0,2026-06-15
+967,Sales,Sales Executive,3,100,4,3,98.6,2026-06-15
+969,Research & Development,Healthcare Representative,3,100,4,3,100.0,2026-06-15
+970,Sales,Sales Executive,3,67,3,1,89.9,2026-06-15
+972,Research & Development,Laboratory Technician,3,95,2,2,90.8,2026-06-15
+974,Sales,Sales Representative,3,100,4,3,89.0,2026-06-15
+975,Sales,Sales Executive,3,100,3,3,93.1,2026-06-15
+976,Research & Development,Manager,3,100,4,2,95.9,2026-06-15
+977,Research & Development,Research Scientist,4,100,3,3,97.9,2026-06-15
+981,Sales,Manager,3,100,3,4,93.7,2026-06-15
+982,Sales,Sales Executive,3,100,3,4,92.7,2026-06-15
+983,Sales,Sales Executive,3,100,4,3,94.6,2026-06-15
+984,Sales,Sales Executive,3,100,4,3,90.7,2026-06-15
+985,Sales,Sales Executive,3,100,3,3,100.0,2026-06-15
+986,Sales,Sales Executive,3,74,2,2,87.6,2026-06-15
+987,Research & Development,Manufacturing Director,3,100,3,4,94.7,2026-06-15
+990,Sales,Sales Executive,3,100,4,3,100.0,2026-06-15
+991,Research & Development,Research Scientist,4,79,1,3,94.0,2026-06-15
+992,Sales,Manager,3,100,3,3,93.2,2026-06-15
+994,Research & Development,Research Scientist,4,89,1,3,92.6,2026-06-15
+995,Research & Development,Research Scientist,3,100,4,3,93.3,2026-06-15
+996,Research & Development,Laboratory Technician,3,100,4,3,99.5,2026-06-15
+997,Research & Development,Research Director,4,100,4,2,85.2,2026-06-15
+998,Research & Development,Healthcare Representative,3,100,2,3,100.0,2026-06-15
+999,Research & Development,Research Director,3,100,3,4,88.3,2026-06-15
+1001,Research & Development,Laboratory Technician,3,100,2,3,92.9,2026-06-15
+1002,Research & Development,Laboratory Technician,3,100,1,3,92.3,2026-06-15
+1003,Sales,Sales Executive,3,100,4,3,96.4,2026-06-15
+1004,Research & Development,Research Scientist,3,86,3,3,87.6,2026-06-15
+1005,Research & Development,Manufacturing Director,3,100,3,3,95.8,2026-06-15
+1006,Research & Development,Research Scientist,3,98,3,2,100.0,2026-06-15
+1007,Research & Development,Manufacturing Director,3,100,3,3,88.5,2026-06-15
+1009,Research & Development,Manufacturing Director,3,100,3,3,94.8,2026-06-15
+1010,Research & Development,Laboratory Technician,4,77,2,1,91.4,2026-06-15
+1011,Research & Development,Manufacturing Director,3,96,1,3,95.7,2026-06-15
+1012,Research & Development,Research Scientist,3,100,4,3,94.1,2026-06-15
+1013,Research & Development,Manufacturing Director,3,100,3,3,91.4,2026-06-15
+1014,Research & Development,Healthcare Representative,3,100,3,2,96.0,2026-06-15
+1015,Research & Development,Research Director,3,79,1,2,100.0,2026-06-15
+1016,Research & Development,Research Scientist,3,74,1,3,93.2,2026-06-15
+1017,Research & Development,Laboratory Technician,3,77,2,3,96.9,2026-06-15
+1018,Research & Development,Manufacturing Director,3,100,4,3,88.8,2026-06-15
+1019,Research & Development,Laboratory Technician,3,73,1,2,90.2,2026-06-15
+1022,Research & Development,Healthcare Representative,3,100,3,3,95.9,2026-06-15
+1024,Research & Development,Healthcare Representative,3,100,3,3,99.9,2026-06-15
+1025,Research & Development,Manufacturing Director,3,100,3,3,95.4,2026-06-15
+1026,Research & Development,Manufacturing Director,3,100,4,3,92.7,2026-06-15
+1027,Research & Development,Manufacturing Director,3,100,4,3,94.0,2026-06-15
+1028,Research & Development,Laboratory Technician,4,95,4,2,89.0,2026-06-15
+1029,Sales,Manager,3,100,3,4,96.4,2026-06-15
+1030,Research & Development,Laboratory Technician,3,100,4,3,97.5,2026-06-15
+1032,Research & Development,Manufacturing Director,3,100,4,3,92.2,2026-06-15
+1033,Research & Development,Healthcare Representative,3,50,2,1,92.1,2026-06-15
+1034,Research & Development,Healthcare Representative,3,100,2,3,95.1,2026-06-15
+1035,Research & Development,Research Director,4,100,3,3,92.3,2026-06-15
+1036,Sales,Sales Executive,3,100,4,3,93.7,2026-06-15
+1037,Sales,Sales Executive,3,75,1,3,100.0,2026-06-15
+1038,Sales,Manager,3,99,4,3,93.0,2026-06-15
+1039,Sales,Sales Executive,3,100,4,3,92.6,2026-06-15
+1040,Sales,Sales Executive,3,100,3,3,91.4,2026-06-15
+1042,Research & Development,Laboratory Technician,3,76,1,3,97.0,2026-06-15
+1043,Research & Development,Manufacturing Director,3,100,1,3,93.3,2026-06-15
+1044,Sales,Sales Representative,3,100,4,2,91.4,2026-06-15
+1045,Sales,Manager,3,100,4,4,99.3,2026-06-15
+1046,Research & Development,Laboratory Technician,3,100,3,3,99.7,2026-06-15
+1047,Sales,Sales Executive,3,100,4,2,91.6,2026-06-15
+1048,Sales,Manager,3,100,4,1,86.5,2026-06-15
+1049,Human Resources,Human Resources,3,94,2,3,98.0,2026-06-15
+1050,Sales,Sales Executive,3,95,2,3,91.3,2026-06-15
+1052,Research & Development,Laboratory Technician,3,75,3,2,97.2,2026-06-15
+1053,Research & Development,Research Scientist,3,73,1,3,86.1,2026-06-15
+1055,Sales,Sales Representative,3,100,3,3,97.6,2026-06-15
+1056,Sales,Sales Representative,4,100,2,3,89.2,2026-06-15
+1060,Research & Development,Research Scientist,3,100,3,3,96.9,2026-06-15
+1061,Research & Development,Research Director,3,100,3,2,94.1,2026-06-15
+1062,Research & Development,Healthcare Representative,3,100,2,2,90.2,2026-06-15
+1066,Sales,Sales Executive,3,78,1,2,92.4,2026-06-15
+1068,Research & Development,Research Scientist,3,100,3,3,96.7,2026-06-15
+1069,Research & Development,Research Director,3,100,4,3,94.4,2026-06-15
+1070,Sales,Sales Executive,3,100,3,3,96.3,2026-06-15
+1071,Research & Development,Research Scientist,3,100,3,3,100.0,2026-06-15
+1073,Research & Development,Manufacturing Director,3,100,4,2,87.7,2026-06-15
+1074,Research & Development,Manager,3,100,1,4,100.0,2026-06-15
+1076,Sales,Sales Executive,3,100,4,3,94.4,2026-06-15
+1077,Sales,Sales Representative,3,100,4,3,90.4,2026-06-15
+1079,Research & Development,Laboratory Technician,3,60,1,2,88.7,2026-06-15
+1080,Research & Development,Research Scientist,4,94,1,3,93.2,2026-06-15
+1081,Research & Development,Research Scientist,3,100,3,4,97.7,2026-06-15
+1082,Research & Development,Healthcare Representative,3,54,1,2,93.5,2026-06-15
+1083,Research & Development,Laboratory Technician,3,63,1,3,100.0,2026-06-15
+1084,Research & Development,Manufacturing Director,3,88,1,2,88.2,2026-06-15
+1085,Research & Development,Research Scientist,3,100,3,3,94.0,2026-06-15
+1088,Research & Development,Healthcare Representative,3,100,3,2,89.0,2026-06-15
+1092,Research & Development,Healthcare Representative,4,100,4,3,95.5,2026-06-15
+1094,Research & Development,Laboratory Technician,3,100,3,3,97.5,2026-06-15
+1096,Research & Development,Manufacturing Director,3,100,2,3,92.3,2026-06-15
+1097,Research & Development,Research Scientist,3,100,3,4,83.6,2026-06-15
+1098,Human Resources,Human Resources,3,70,1,3,94.8,2026-06-15
+1099,Research & Development,Healthcare Representative,3,100,4,3,95.7,2026-06-15
+1100,Sales,Sales Executive,4,80,1,3,95.6,2026-06-15
+1101,Research & Development,Research Scientist,4,85,3,3,98.9,2026-06-15
+1102,Research & Development,Laboratory Technician,3,93,3,2,89.7,2026-06-15
+1103,Research & Development,Healthcare Representative,3,100,4,2,96.7,2026-06-15
+1105,Sales,Sales Executive,3,100,4,3,98.8,2026-06-15
+1106,Research & Development,Laboratory Technician,3,100,4,4,86.9,2026-06-15
+1107,Research & Development,Laboratory Technician,4,82,3,2,95.3,2026-06-15
+1108,Research & Development,Research Scientist,4,72,2,3,92.0,2026-06-15
+1109,Research & Development,Manager,3,100,1,3,93.7,2026-06-15
+1111,Research & Development,Laboratory Technician,3,72,2,3,95.4,2026-06-15
+1113,Sales,Sales Executive,3,100,3,3,92.1,2026-06-15
+1114,Sales,Sales Executive,3,100,2,3,91.3,2026-06-15
+1115,Research & Development,Research Scientist,3,100,4,3,94.1,2026-06-15
+1116,Research & Development,Manager,4,100,4,2,89.7,2026-06-15
+1117,Sales,Sales Executive,3,100,3,3,89.7,2026-06-15
+1118,Research & Development,Healthcare Representative,3,100,2,3,96.7,2026-06-15
+1119,Sales,Sales Executive,3,100,3,3,89.4,2026-06-15
+1120,Research & Development,Research Scientist,4,100,4,3,96.7,2026-06-15
+1121,Research & Development,Manufacturing Director,3,97,2,2,95.9,2026-06-15
+1124,Sales,Manager,3,100,3,3,87.1,2026-06-15
+1125,Sales,Sales Executive,3,100,2,3,91.3,2026-06-15
+1126,Research & Development,Manufacturing Director,3,100,1,3,98.8,2026-06-15
+1127,Research & Development,Healthcare Representative,3,100,4,3,90.1,2026-06-15
+1128,Research & Development,Research Director,3,100,3,4,92.1,2026-06-15
+1131,Research & Development,Research Scientist,3,100,2,4,95.8,2026-06-15
+1132,Research & Development,Laboratory Technician,3,99,2,2,97.1,2026-06-15
+1133,Research & Development,Manufacturing Director,4,100,4,3,93.0,2026-06-15
+1135,Sales,Sales Representative,3,100,4,3,91.6,2026-06-15
+1136,Research & Development,Research Scientist,3,67,2,1,99.7,2026-06-15
+1137,Sales,Sales Executive,3,100,4,3,100.0,2026-06-15
+1138,Sales,Sales Executive,3,100,2,3,97.9,2026-06-15
+1140,Research & Development,Manufacturing Director,3,100,3,2,94.3,2026-06-15
+1143,Research & Development,Research Scientist,3,100,2,2,90.8,2026-06-15
+1148,Research & Development,Laboratory Technician,3,100,4,3,90.7,2026-06-15
+1150,Research & Development,Manufacturing Director,3,100,4,2,96.1,2026-06-15
+1152,Human Resources,Human Resources,3,100,3,4,95.7,2026-06-15
+1154,Research & Development,Research Scientist,3,100,3,3,99.6,2026-06-15
+1156,Research & Development,Laboratory Technician,3,100,3,3,96.6,2026-06-15
+1157,Sales,Sales Executive,3,54,1,3,88.0,2026-06-15
+1158,Research & Development,Laboratory Technician,3,100,4,3,98.2,2026-06-15
+1160,Research & Development,Laboratory Technician,3,90,3,2,90.0,2026-06-15
+1161,Research & Development,Healthcare Representative,3,100,4,3,92.5,2026-06-15
+1162,Research & Development,Research Scientist,3,100,3,3,95.0,2026-06-15
+1163,Sales,Sales Executive,4,92,3,2,100.0,2026-06-15
+1164,Human Resources,Human Resources,3,96,3,1,100.0,2026-06-15
+1165,Sales,Sales Executive,3,67,1,1,96.4,2026-06-15
+1166,Research & Development,Research Director,3,97,3,2,93.3,2026-06-15
+1167,Sales,Sales Executive,3,71,1,2,96.1,2026-06-15
+1171,Sales,Sales Executive,3,100,1,4,97.6,2026-06-15
+1172,Research & Development,Laboratory Technician,3,100,3,3,92.7,2026-06-15
+1173,Research & Development,Laboratory Technician,4,100,2,3,100.0,2026-06-15
+1175,Research & Development,Laboratory Technician,3,100,4,2,94.9,2026-06-15
+1177,Research & Development,Laboratory Technician,4,100,4,3,96.0,2026-06-15
+1179,Sales,Sales Executive,3,100,3,3,96.7,2026-06-15
+1180,Research & Development,Research Scientist,3,100,4,1,95.7,2026-06-15
+1182,Research & Development,Manufacturing Director,3,100,2,4,97.4,2026-06-15
+1184,Research & Development,Healthcare Representative,4,100,1,3,91.5,2026-06-15
+1185,Research & Development,Laboratory Technician,3,100,4,4,91.8,2026-06-15
+1188,Sales,Sales Executive,3,71,3,2,89.6,2026-06-15
+1190,Sales,Sales Representative,3,93,1,3,95.8,2026-06-15
+1191,Research & Development,Manager,3,100,1,3,97.1,2026-06-15
+1192,Research & Development,Laboratory Technician,3,100,4,3,95.8,2026-06-15
+1193,Research & Development,Research Scientist,4,100,1,3,100.0,2026-06-15
+1195,Research & Development,Research Scientist,3,100,3,2,94.0,2026-06-15
+1196,Research & Development,Manufacturing Director,3,100,4,2,96.7,2026-06-15
+1198,Research & Development,Laboratory Technician,3,80,3,2,89.6,2026-06-15
+1200,Research & Development,Research Scientist,3,100,3,3,92.5,2026-06-15
+1201,Research & Development,Manager,3,100,3,3,96.8,2026-06-15
+1202,Research & Development,Research Scientist,3,100,4,2,97.4,2026-06-15
+1203,Research & Development,Research Scientist,3,100,4,3,92.8,2026-06-15
+1204,Sales,Manager,4,78,1,3,93.7,2026-06-15
+1206,Research & Development,Research Scientist,3,100,3,3,87.9,2026-06-15
+1207,Human Resources,Human Resources,3,100,3,3,92.6,2026-06-15
+1210,Research & Development,Research Scientist,3,32,1,1,97.6,2026-06-15
+1211,Sales,Sales Executive,3,94,1,3,96.3,2026-06-15
+1212,Sales,Sales Executive,3,100,2,3,96.0,2026-06-15
+1215,Research & Development,Manager,4,100,1,3,94.2,2026-06-15
+1216,Research & Development,Laboratory Technician,3,100,1,3,94.0,2026-06-15
+1217,Research & Development,Research Director,3,100,2,3,91.4,2026-06-15
+1218,Sales,Sales Executive,3,100,1,3,96.8,2026-06-15
+1219,Research & Development,Laboratory Technician,3,67,2,1,95.7,2026-06-15
+1220,Sales,Sales Executive,3,85,3,2,96.0,2026-06-15
+1221,Research & Development,Laboratory Technician,3,100,3,3,91.9,2026-06-15
+1224,Research & Development,Laboratory Technician,3,100,3,2,85.4,2026-06-15
+1225,Research & Development,Research Scientist,4,100,4,3,98.4,2026-06-15
+1226,Sales,Sales Representative,3,100,4,3,92.1,2026-06-15
+1228,Research & Development,Manufacturing Director,3,100,4,2,90.5,2026-06-15
+1231,Human Resources,Human Resources,3,100,1,4,96.8,2026-06-15
+1233,Sales,Sales Executive,3,100,4,3,92.4,2026-06-15
+1234,Research & Development,Laboratory Technician,4,100,2,3,98.2,2026-06-15
+1235,Research & Development,Research Scientist,3,100,3,3,96.5,2026-06-15
+1237,Research & Development,Manufacturing Director,4,94,1,3,96.7,2026-06-15
+1238,Research & Development,Research Scientist,3,100,4,3,88.5,2026-06-15
+1239,Sales,Sales Executive,3,100,2,4,98.8,2026-06-15
+1240,Sales,Sales Executive,3,100,4,3,95.0,2026-06-15
+1241,Research & Development,Research Scientist,4,100,2,3,92.5,2026-06-15
+1242,Research & Development,Research Director,3,78,1,3,94.6,2026-06-15
+1243,Sales,Sales Executive,3,100,4,2,86.9,2026-06-15
+1244,Research & Development,Research Scientist,3,81,1,2,95.6,2026-06-15
+1245,Research & Development,Manufacturing Director,3,100,3,1,89.9,2026-06-15
+1246,Research & Development,Research Scientist,3,100,4,3,88.6,2026-06-15
+1248,Research & Development,Research Scientist,4,87,2,4,87.9,2026-06-15
+1249,Research & Development,Research Scientist,3,100,4,3,98.5,2026-06-15
+1250,Research & Development,Research Director,3,100,4,3,91.5,2026-06-15
+1251,Research & Development,Healthcare Representative,3,94,1,2,100.0,2026-06-15
+1252,Research & Development,Healthcare Representative,3,90,1,3,91.9,2026-06-15
+1254,Sales,Sales Executive,3,100,4,3,87.2,2026-06-15
+1255,Research & Development,Research Director,3,100,4,3,89.5,2026-06-15
+1256,Research & Development,Manager,3,100,3,4,98.9,2026-06-15
+1257,Research & Development,Research Scientist,3,100,2,2,93.4,2026-06-15
+1258,Research & Development,Laboratory Technician,3,100,2,2,91.8,2026-06-15
+1259,Research & Development,Research Scientist,3,99,3,3,94.6,2026-06-15
+1260,Research & Development,Healthcare Representative,3,100,4,3,96.0,2026-06-15
+1263,Research & Development,Research Director,3,100,4,4,98.5,2026-06-15
+1264,Research & Development,Research Director,3,100,4,2,99.8,2026-06-15
+1265,Research & Development,Research Scientist,3,100,3,2,92.6,2026-06-15
+1267,Sales,Manager,3,100,2,3,88.7,2026-06-15
+1268,Sales,Sales Executive,3,100,3,3,92.3,2026-06-15
+1269,Research & Development,Research Scientist,3,100,4,3,95.0,2026-06-15
+1270,Research & Development,Research Scientist,4,100,3,3,90.1,2026-06-15
+1273,Sales,Sales Representative,3,100,4,3,90.2,2026-06-15
+1275,Research & Development,Research Scientist,4,100,4,2,95.4,2026-06-15
+1277,Sales,Manager,3,75,2,3,93.8,2026-06-15
+1278,Research & Development,Healthcare Representative,3,100,2,3,94.1,2026-06-15
+1279,Research & Development,Laboratory Technician,4,70,3,1,91.0,2026-06-15
+1280,Sales,Manager,3,100,2,3,93.1,2026-06-15
+1281,Sales,Sales Executive,3,100,1,3,90.3,2026-06-15
+1282,Sales,Manager,4,94,2,2,97.6,2026-06-15
+1283,Research & Development,Manufacturing Director,3,100,4,2,98.1,2026-06-15
+1285,Research & Development,Laboratory Technician,3,100,2,4,86.6,2026-06-15
+1286,Research & Development,Laboratory Technician,3,100,3,2,90.3,2026-06-15
+1288,Research & Development,Manager,3,92,1,2,88.0,2026-06-15
+1289,Human Resources,Human Resources,3,100,2,4,91.4,2026-06-15
+1291,Research & Development,Research Scientist,3,100,3,3,93.7,2026-06-15
+1292,Research & Development,Research Scientist,3,97,2,3,88.2,2026-06-15
+1293,Sales,Sales Executive,3,100,4,4,90.3,2026-06-15
+1294,Research & Development,Manufacturing Director,3,100,2,3,90.0,2026-06-15
+1295,Research & Development,Healthcare Representative,3,100,4,3,94.8,2026-06-15
+1296,Research & Development,Laboratory Technician,3,100,4,3,94.3,2026-06-15
+1297,Research & Development,Laboratory Technician,3,94,3,2,91.1,2026-06-15
+1298,Research & Development,Manufacturing Director,3,100,3,3,94.7,2026-06-15
+1299,Research & Development,Laboratory Technician,3,80,3,3,91.8,2026-06-15
+1301,Research & Development,Research Scientist,3,78,1,2,92.9,2026-06-15
+1303,Research & Development,Research Scientist,3,100,2,2,100.0,2026-06-15
+1304,Sales,Sales Executive,3,100,4,4,99.4,2026-06-15
+1306,Research & Development,Manager,4,95,2,3,88.8,2026-06-15
+1307,Research & Development,Manager,3,100,2,3,97.3,2026-06-15
+1308,Research & Development,Research Scientist,3,100,3,3,97.2,2026-06-15
+1309,Research & Development,Laboratory Technician,3,100,3,3,89.4,2026-06-15
+1310,Research & Development,Research Scientist,3,65,1,3,97.3,2026-06-15
+1311,Research & Development,Laboratory Technician,3,100,4,3,100.0,2026-06-15
+1312,Research & Development,Healthcare Representative,3,100,3,3,89.5,2026-06-15
+1314,Human Resources,Human Resources,3,100,1,4,90.3,2026-06-15
+1315,Research & Development,Laboratory Technician,3,100,4,3,98.1,2026-06-15
+1317,Research & Development,Research Director,3,94,1,3,95.1,2026-06-15
+1318,Sales,Sales Executive,3,93,2,3,96.2,2026-06-15
+1319,Sales,Sales Executive,3,72,2,2,95.4,2026-06-15
+1321,Research & Development,Manager,4,93,1,3,95.6,2026-06-15
+1322,Research & Development,Manufacturing Director,3,95,3,3,88.7,2026-06-15
+1324,Sales,Sales Executive,3,100,3,2,98.2,2026-06-15
+1329,Sales,Sales Executive,3,100,2,3,98.7,2026-06-15
+1331,Sales,Sales Representative,3,95,2,4,93.1,2026-06-15
+1333,Research & Development,Laboratory Technician,3,82,1,4,93.8,2026-06-15
+1334,Research & Development,Manager,3,100,3,2,87.9,2026-06-15
+1336,Research & Development,Manager,3,100,3,3,96.1,2026-06-15
+1338,Human Resources,Manager,3,100,2,3,96.3,2026-06-15
+1340,Research & Development,Research Scientist,3,100,3,3,93.8,2026-06-15
+1344,Research & Development,Healthcare Representative,3,100,4,2,98.5,2026-06-15
+1346,Research & Development,Research Scientist,3,100,4,3,92.7,2026-06-15
+1349,Sales,Sales Executive,3,100,1,3,96.3,2026-06-15
+1350,Research & Development,Research Scientist,3,100,3,3,89.9,2026-06-15
+1352,Human Resources,Manager,3,100,2,3,93.9,2026-06-15
+1355,Sales,Sales Executive,3,97,1,3,93.3,2026-06-15
+1356,Sales,Sales Executive,3,100,1,4,94.9,2026-06-15
+1358,Research & Development,Laboratory Technician,3,100,4,2,92.5,2026-06-15
+1360,Research & Development,Manufacturing Director,3,73,1,2,93.5,2026-06-15
+1361,Research & Development,Laboratory Technician,4,100,2,3,97.3,2026-06-15
+1362,Sales,Sales Executive,3,75,1,2,92.3,2026-06-15
+1363,Research & Development,Manufacturing Director,3,100,4,3,87.6,2026-06-15
+1364,Sales,Sales Representative,3,100,4,3,100.0,2026-06-15
+1367,Research & Development,Manufacturing Director,3,98,2,2,99.5,2026-06-15
+1368,Research & Development,Laboratory Technician,3,100,4,4,88.8,2026-06-15
+1369,Research & Development,Laboratory Technician,3,100,4,3,96.8,2026-06-15
+1371,Sales,Sales Executive,4,100,4,3,92.0,2026-06-15
+1372,Sales,Sales Executive,3,70,3,2,95.1,2026-06-15
+1373,Research & Development,Manufacturing Director,3,100,2,3,95.2,2026-06-15
+1374,Research & Development,Research Scientist,4,92,3,3,93.1,2026-06-15
+1375,Research & Development,Healthcare Representative,4,99,3,3,90.9,2026-06-15
+1377,Research & Development,Laboratory Technician,3,100,3,3,91.2,2026-06-15
+1379,Sales,Sales Representative,3,100,4,4,90.3,2026-06-15
+1380,Sales,Sales Executive,3,100,3,2,90.7,2026-06-15
+1382,Research & Development,Research Scientist,3,100,3,3,93.7,2026-06-15
+1383,Research & Development,Healthcare Representative,3,100,4,4,91.1,2026-06-15
+1387,Sales,Sales Executive,3,96,1,3,96.7,2026-06-15
+1389,Research & Development,Manufacturing Director,3,100,3,2,99.9,2026-06-15
+1390,Sales,Sales Executive,3,100,4,4,91.7,2026-06-15
+1391,Sales,Sales Executive,3,99,2,3,95.0,2026-06-15
+1392,Research & Development,Research Scientist,3,100,4,2,96.0,2026-06-15
+1394,Research & Development,Research Scientist,3,100,3,3,95.9,2026-06-15
+1395,Sales,Sales Executive,3,100,4,4,94.3,2026-06-15
+1396,Sales,Sales Executive,3,78,2,2,97.0,2026-06-15
+1397,Research & Development,Healthcare Representative,4,100,3,3,95.9,2026-06-15
+1399,Sales,Sales Executive,3,86,3,2,89.0,2026-06-15
+1401,Research & Development,Manufacturing Director,3,100,3,2,97.5,2026-06-15
+1402,Research & Development,Research Scientist,3,73,3,1,97.5,2026-06-15
+1403,Sales,Sales Executive,3,100,4,3,90.9,2026-06-15
+1405,Research & Development,Research Scientist,3,100,3,3,94.2,2026-06-15
+1407,Research & Development,Research Scientist,3,100,4,3,96.7,2026-06-15
+1408,Human Resources,Manager,3,99,1,3,93.2,2026-06-15
+1409,Research & Development,Laboratory Technician,3,83,1,1,98.3,2026-06-15
+1411,Research & Development,Laboratory Technician,3,99,3,3,100.0,2026-06-15
+1412,Research & Development,Manufacturing Director,3,100,4,3,90.9,2026-06-15
+1415,Research & Development,Laboratory Technician,3,98,4,2,88.5,2026-06-15
+1417,Research & Development,Laboratory Technician,3,100,1,3,95.2,2026-06-15
+1419,Human Resources,Human Resources,3,70,1,2,96.9,2026-06-15
+1420,Research & Development,Laboratory Technician,4,59,1,3,93.1,2026-06-15
+1421,Research & Development,Healthcare Representative,3,100,4,3,99.8,2026-06-15
+1422,Research & Development,Research Director,3,100,4,2,88.6,2026-06-15
+1423,Research & Development,Research Director,4,100,1,3,96.8,2026-06-15
+1424,Research & Development,Research Director,3,100,4,4,91.6,2026-06-15
+1425,Sales,Sales Executive,3,98,2,3,100.0,2026-06-15
+1427,Sales,Sales Representative,3,100,3,3,100.0,2026-06-15
+1428,Sales,Sales Executive,3,96,1,3,90.9,2026-06-15
+1430,Research & Development,Research Director,3,100,2,4,91.8,2026-06-15
+1431,Research & Development,Research Scientist,3,100,1,3,97.4,2026-06-15
+1433,Research & Development,Research Scientist,3,84,2,4,92.5,2026-06-15
+1434,Research & Development,Laboratory Technician,3,91,1,4,93.8,2026-06-15
+1435,Research & Development,Laboratory Technician,3,100,4,2,94.1,2026-06-15
+1436,Sales,Sales Executive,3,78,1,2,86.3,2026-06-15
+1438,Research & Development,Research Scientist,3,100,4,2,93.9,2026-06-15
+1439,Sales,Sales Representative,3,52,1,3,91.2,2026-06-15
+1440,Research & Development,Laboratory Technician,3,90,3,1,92.0,2026-06-15
+1441,Research & Development,Research Scientist,4,100,1,4,99.8,2026-06-15
+1443,Research & Development,Research Director,3,100,3,4,89.0,2026-06-15
+1445,Sales,Sales Executive,3,100,3,3,97.3,2026-06-15
+1446,Sales,Sales Executive,3,100,4,2,92.9,2026-06-15
+1447,Research & Development,Laboratory Technician,3,97,2,2,92.9,2026-06-15
+1448,Research & Development,Research Scientist,3,95,3,2,97.2,2026-06-15
+1449,Research & Development,Laboratory Technician,3,100,3,4,95.4,2026-06-15
+1453,Sales,Sales Executive,3,100,4,3,96.3,2026-06-15
+1457,Sales,Sales Executive,3,93,4,4,97.9,2026-06-15
+1458,Research & Development,Laboratory Technician,4,72,1,4,92.7,2026-06-15
+1459,Research & Development,Manufacturing Director,3,86,2,3,91.6,2026-06-15
+1460,Research & Development,Healthcare Representative,3,81,1,3,89.7,2026-06-15
+1461,Human Resources,Human Resources,3,100,2,3,90.7,2026-06-15
+1464,Research & Development,Laboratory Technician,3,83,4,1,100.0,2026-06-15
+1465,Research & Development,Manufacturing Director,3,100,4,4,99.0,2026-06-15
+1466,Sales,Sales Executive,3,87,1,3,88.6,2026-06-15
+1467,Human Resources,Human Resources,3,99,3,3,88.7,2026-06-15
+1468,Research & Development,Research Director,3,100,2,3,95.9,2026-06-15
+1469,Sales,Sales Executive,3,100,1,3,96.2,2026-06-15
+1471,Research & Development,Laboratory Technician,3,100,3,3,96.2,2026-06-15
+1472,Research & Development,Research Director,3,100,2,2,93.0,2026-06-15
+1473,Research & Development,Healthcare Representative,3,88,3,2,93.5,2026-06-15
+1474,Research & Development,Research Scientist,3,100,3,4,95.3,2026-06-15
+1475,Research & Development,Research Scientist,3,100,2,2,94.3,2026-06-15
+1477,Sales,Sales Executive,3,86,1,3,85.1,2026-06-15
+1478,Sales,Sales Executive,3,100,1,3,93.1,2026-06-15
+1479,Sales,Sales Executive,3,100,3,2,90.6,2026-06-15
+1480,Research & Development,Laboratory Technician,3,100,4,3,94.7,2026-06-15
+1481,Sales,Sales Executive,3,96,3,2,100.0,2026-06-15
+1482,Research & Development,Research Scientist,3,100,3,2,95.5,2026-06-15
+1483,Research & Development,Research Scientist,4,93,3,2,92.7,2026-06-15
+1484,Research & Development,Healthcare Representative,3,100,2,3,97.7,2026-06-15
+1485,Research & Development,Research Director,3,80,1,2,95.9,2026-06-15
+1486,Sales,Sales Representative,3,100,3,4,95.7,2026-06-15
+1487,Sales,Sales Executive,3,53,2,1,96.4,2026-06-15
+1489,Sales,Sales Executive,4,90,2,4,100.0,2026-06-15
+1492,Sales,Sales Representative,3,100,3,3,89.5,2026-06-15
+1494,Research & Development,Laboratory Technician,3,67,1,2,95.9,2026-06-15
+1495,Sales,Sales Representative,3,100,2,3,90.3,2026-06-15
+1496,Research & Development,Manufacturing Director,3,100,3,2,96.2,2026-06-15
+1497,Sales,Sales Executive,3,100,3,3,90.3,2026-06-15
+1499,Human Resources,Human Resources,4,100,3,4,92.3,2026-06-15
+1501,Research & Development,Healthcare Representative,3,100,3,3,92.8,2026-06-15
+1502,Research & Development,Laboratory Technician,3,91,2,3,97.9,2026-06-15
+1503,Sales,Sales Executive,3,100,3,2,97.7,2026-06-15
+1504,Research & Development,Laboratory Technician,3,69,1,2,89.0,2026-06-15
+1506,Research & Development,Research Scientist,3,91,3,1,94.2,2026-06-15
+1507,Sales,Sales Executive,3,100,1,3,91.2,2026-06-15
+1509,Research & Development,Laboratory Technician,4,88,1,3,89.0,2026-06-15
+1513,Research & Development,Laboratory Technician,3,100,2,3,93.1,2026-06-15
+1514,Research & Development,Manufacturing Director,3,87,2,2,92.8,2026-06-15
+1515,Research & Development,Healthcare Representative,3,100,3,3,100.0,2026-06-15
+1516,Research & Development,Manager,4,100,4,4,95.7,2026-06-15
+1520,Research & Development,Manager,4,100,4,3,88.5,2026-06-15
+1522,Research & Development,Research Scientist,3,43,1,1,91.7,2026-06-15
+1523,Research & Development,Research Director,3,100,1,4,98.1,2026-06-15
+1525,Research & Development,Manufacturing Director,3,100,2,3,100.0,2026-06-15
+1527,Sales,Manager,3,100,2,4,87.7,2026-06-15
+1529,Research & Development,Healthcare Representative,3,99,2,1,86.5,2026-06-15
+1533,Research & Development,Laboratory Technician,3,97,3,3,100.0,2026-06-15
+1534,Research & Development,Laboratory Technician,3,74,1,1,95.6,2026-06-15
+1535,Sales,Sales Executive,3,100,3,3,90.5,2026-06-15
+1537,Research & Development,Research Scientist,3,85,3,1,96.1,2026-06-15
+1539,Research & Development,Research Director,3,100,4,3,83.5,2026-06-15
+1541,Sales,Sales Representative,4,100,3,3,94.0,2026-06-15
+1542,Research & Development,Laboratory Technician,3,100,2,3,95.3,2026-06-15
+1543,Research & Development,Research Scientist,3,100,4,3,97.7,2026-06-15
+1544,Research & Development,Healthcare Representative,3,96,1,3,89.9,2026-06-15
+1545,Research & Development,Manufacturing Director,3,100,2,3,94.3,2026-06-15
+1546,Research & Development,Research Scientist,4,100,4,3,90.3,2026-06-15
+1547,Research & Development,Healthcare Representative,3,100,4,1,95.0,2026-06-15
+1548,Sales,Sales Executive,3,99,1,4,90.4,2026-06-15
+1549,Research & Development,Laboratory Technician,3,100,3,3,92.4,2026-06-15
+1550,Human Resources,Manager,4,100,4,3,90.0,2026-06-15
+1551,Research & Development,Laboratory Technician,3,81,1,3,96.6,2026-06-15
+1552,Research & Development,Healthcare Representative,3,100,4,3,97.4,2026-06-15
+1553,Research & Development,Healthcare Representative,3,84,2,3,93.1,2026-06-15
+1554,Sales,Sales Representative,4,100,3,3,94.2,2026-06-15
+1555,Research & Development,Research Scientist,3,92,2,3,88.2,2026-06-15
+1556,Sales,Sales Representative,4,100,4,2,92.8,2026-06-15
+1557,Sales,Sales Executive,3,100,3,3,93.8,2026-06-15
+1558,Research & Development,Research Scientist,3,100,3,2,100.0,2026-06-15
+1560,Sales,Sales Executive,3,60,1,1,89.6,2026-06-15
+1562,Sales,Sales Executive,3,81,1,3,99.9,2026-06-15
+1563,Human Resources,Human Resources,3,100,3,3,98.0,2026-06-15
+1564,Research & Development,Laboratory Technician,3,96,1,3,95.1,2026-06-15
+1568,Sales,Sales Executive,3,100,2,3,100.0,2026-06-15
+1569,Research & Development,Laboratory Technician,3,69,1,3,95.5,2026-06-15
+1572,Research & Development,Manufacturing Director,3,100,4,3,95.6,2026-06-15
+1573,Research & Development,Manufacturing Director,3,87,2,3,93.8,2026-06-15
+1574,Research & Development,Research Scientist,3,91,1,2,98.9,2026-06-15
+1576,Research & Development,Research Scientist,3,92,1,2,98.4,2026-06-15
+1577,Research & Development,Research Scientist,3,98,4,1,91.5,2026-06-15
+1578,Sales,Manager,4,100,4,3,88.7,2026-06-15
+1580,Research & Development,Research Scientist,3,100,4,2,93.2,2026-06-15
+1581,Research & Development,Research Scientist,4,100,4,3,90.8,2026-06-15
+1582,Sales,Sales Executive,3,100,2,3,93.7,2026-06-15
+1583,Sales,Sales Executive,3,100,2,4,98.9,2026-06-15
+1585,Sales,Sales Executive,3,100,3,3,92.2,2026-06-15
+1586,Research & Development,Laboratory Technician,3,96,1,3,93.8,2026-06-15
+1587,Research & Development,Healthcare Representative,3,98,3,3,94.2,2026-06-15
+1588,Sales,Sales Executive,3,100,3,3,97.4,2026-06-15
+1590,Research & Development,Healthcare Representative,3,100,4,4,85.0,2026-06-15
+1591,Sales,Manager,3,100,3,3,91.6,2026-06-15
+1592,Research & Development,Research Scientist,3,100,3,3,94.8,2026-06-15
+1594,Research & Development,Laboratory Technician,3,85,1,3,98.8,2026-06-15
+1595,Research & Development,Manager,4,100,4,3,92.0,2026-06-15
+1596,Research & Development,Laboratory Technician,3,100,3,2,86.5,2026-06-15
+1597,Research & Development,Healthcare Representative,3,100,3,2,96.5,2026-06-15
+1598,Sales,Sales Executive,3,100,1,3,91.5,2026-06-15
+1599,Research & Development,Laboratory Technician,3,100,2,3,89.2,2026-06-15
+1601,Research & Development,Laboratory Technician,3,100,4,2,91.5,2026-06-15
+1602,Sales,Manager,3,84,1,1,93.3,2026-06-15
+1604,Research & Development,Laboratory Technician,3,99,2,3,91.6,2026-06-15
+1605,Research & Development,Research Scientist,3,91,3,2,85.2,2026-06-15
+1606,Research & Development,Healthcare Representative,3,100,3,3,97.6,2026-06-15
+1607,Research & Development,Research Scientist,3,100,4,3,99.1,2026-06-15
+1608,Research & Development,Research Director,3,100,4,2,96.6,2026-06-15
+1609,Research & Development,Research Scientist,3,92,2,2,89.4,2026-06-15
+1611,Research & Development,Laboratory Technician,3,85,1,3,93.2,2026-06-15
+1612,Sales,Sales Executive,3,71,1,3,94.0,2026-06-15
+1613,Sales,Sales Executive,3,100,1,3,96.4,2026-06-15
+1614,Research & Development,Manufacturing Director,3,100,3,3,96.7,2026-06-15
+1615,Research & Development,Manufacturing Director,3,100,4,3,91.1,2026-06-15
+1617,Research & Development,Laboratory Technician,3,84,1,2,94.3,2026-06-15
+1618,Research & Development,Manufacturing Director,3,100,1,3,95.8,2026-06-15
+1619,Research & Development,Laboratory Technician,3,90,1,3,99.8,2026-06-15
+1621,Research & Development,Research Scientist,3,88,1,3,96.8,2026-06-15
+1622,Research & Development,Manufacturing Director,4,62,1,2,97.2,2026-06-15
+1623,Research & Development,Research Scientist,3,100,4,3,94.3,2026-06-15
+1624,Sales,Sales Representative,3,100,4,4,99.6,2026-06-15
+1625,Human Resources,Manager,3,100,3,3,95.6,2026-06-15
+1627,Research & Development,Laboratory Technician,3,100,3,3,90.6,2026-06-15
+1628,Research & Development,Manufacturing Director,3,100,3,3,99.6,2026-06-15
+1630,Research & Development,Healthcare Representative,3,100,3,3,96.8,2026-06-15
+1631,Research & Development,Manufacturing Director,3,100,3,2,92.2,2026-06-15
+1633,Research & Development,Manufacturing Director,3,87,3,1,92.1,2026-06-15
+1635,Research & Development,Manufacturing Director,3,100,4,3,95.2,2026-06-15
+1638,Research & Development,Manufacturing Director,3,100,3,4,95.9,2026-06-15
+1639,Sales,Sales Executive,3,82,1,3,94.8,2026-06-15
+1640,Research & Development,Research Scientist,3,62,2,1,95.2,2026-06-15
+1641,Research & Development,Manufacturing Director,3,100,4,2,100.0,2026-06-15
+1642,Human Resources,Human Resources,3,100,4,3,98.3,2026-06-15
+1644,Research & Development,Manager,4,100,4,3,94.8,2026-06-15
+1645,Sales,Sales Executive,3,99,4,2,97.8,2026-06-15
+1646,Research & Development,Research Scientist,3,100,4,3,89.9,2026-06-15
+1647,Research & Development,Research Scientist,3,100,3,3,95.6,2026-06-15
+1648,Research & Development,Research Scientist,3,100,4,2,100.0,2026-06-15
+1649,Research & Development,Laboratory Technician,3,41,1,1,93.1,2026-06-15
+1650,Sales,Sales Executive,3,100,3,3,90.6,2026-06-15
+1651,Research & Development,Healthcare Representative,3,88,1,3,91.4,2026-06-15
+1653,Research & Development,Manufacturing Director,3,100,3,3,89.6,2026-06-15
+1654,Research & Development,Manufacturing Director,4,100,2,3,90.9,2026-06-15
+1655,Research & Development,Research Director,3,79,2,3,92.5,2026-06-15
+1656,Research & Development,Research Director,3,100,1,3,88.4,2026-06-15
+1657,Sales,Sales Representative,3,100,3,3,94.1,2026-06-15
+1658,Research & Development,Research Scientist,3,100,2,3,97.6,2026-06-15
+1659,Research & Development,Laboratory Technician,3,93,2,3,90.4,2026-06-15
+1661,Research & Development,Healthcare Representative,3,100,3,3,100.0,2026-06-15
+1662,Research & Development,Manufacturing Director,3,100,3,3,96.0,2026-06-15
+1664,Research & Development,Healthcare Representative,4,86,1,3,98.1,2026-06-15
+1665,Research & Development,Manager,4,100,3,3,91.4,2026-06-15
+1666,Research & Development,Research Director,4,100,3,3,97.4,2026-06-15
+1667,Sales,Sales Executive,4,100,4,4,89.6,2026-06-15
+1668,Research & Development,Research Scientist,3,100,4,4,97.6,2026-06-15
+1669,Sales,Sales Executive,3,80,2,2,94.7,2026-06-15
+1670,Sales,Sales Executive,3,100,4,3,96.2,2026-06-15
+1671,Research & Development,Research Scientist,3,100,2,2,89.3,2026-06-15
+1673,Sales,Sales Executive,3,99,4,3,90.4,2026-06-15
+1674,Research & Development,Laboratory Technician,3,86,1,2,96.4,2026-06-15
+1675,Research & Development,Laboratory Technician,4,100,2,3,90.2,2026-06-15
+1676,Sales,Manager,3,92,2,3,95.9,2026-06-15
+1677,Research & Development,Manager,3,100,3,3,88.5,2026-06-15
+1678,Sales,Sales Executive,3,100,3,3,97.4,2026-06-15
+1680,Sales,Sales Representative,3,97,1,3,89.1,2026-06-15
+1681,Sales,Sales Executive,4,100,4,3,96.2,2026-06-15
+1682,Research & Development,Healthcare Representative,3,96,3,2,96.5,2026-06-15
+1683,Human Resources,Human Resources,3,100,4,3,91.2,2026-06-15
+1684,Research & Development,Laboratory Technician,3,100,3,3,96.3,2026-06-15
+1687,Research & Development,Laboratory Technician,3,100,3,2,95.0,2026-06-15
+1689,Research & Development,Healthcare Representative,3,100,4,3,91.8,2026-06-15
+1691,Sales,Sales Representative,3,100,3,3,90.0,2026-06-15
+1692,Research & Development,Laboratory Technician,3,91,2,3,86.1,2026-06-15
+1693,Research & Development,Laboratory Technician,4,100,4,3,95.4,2026-06-15
+1694,Research & Development,Research Scientist,3,94,2,3,87.7,2026-06-15
+1696,Research & Development,Laboratory Technician,3,100,4,4,94.4,2026-06-15
+1697,Research & Development,Healthcare Representative,4,100,4,4,92.9,2026-06-15
+1698,Research & Development,Laboratory Technician,3,99,2,3,96.7,2026-06-15
+1700,Sales,Sales Executive,3,100,4,2,92.8,2026-06-15
+1701,Research & Development,Research Scientist,3,100,4,3,92.7,2026-06-15
+1702,Sales,Sales Representative,4,100,4,3,96.9,2026-06-15
+1703,Research & Development,Healthcare Representative,3,100,4,3,95.3,2026-06-15
+1704,Research & Development,Research Scientist,3,100,4,4,95.3,2026-06-15
+1706,Sales,Sales Executive,3,100,4,3,95.9,2026-06-15
+1707,Research & Development,Research Scientist,3,100,3,3,87.9,2026-06-15
+1708,Sales,Sales Executive,3,100,3,3,97.0,2026-06-15
+1709,Research & Development,Laboratory Technician,3,100,3,3,96.4,2026-06-15
+1710,Sales,Sales Representative,3,100,4,2,89.9,2026-06-15
+1712,Research & Development,Healthcare Representative,4,100,3,2,93.0,2026-06-15
+1714,Human Resources,Human Resources,3,100,3,3,93.8,2026-06-15
+1716,Sales,Sales Executive,3,87,3,1,93.5,2026-06-15
+1718,Research & Development,Laboratory Technician,3,100,3,4,95.3,2026-06-15
+1719,Research & Development,Research Director,3,100,2,3,99.7,2026-06-15
+1720,Research & Development,Research Scientist,3,84,3,2,98.3,2026-06-15
+1721,Research & Development,Laboratory Technician,3,100,3,4,88.8,2026-06-15
+1722,Human Resources,Human Resources,3,100,2,3,96.5,2026-06-15
+1724,Research & Development,Manufacturing Director,3,94,1,3,99.3,2026-06-15
+1725,Research & Development,Laboratory Technician,3,90,1,4,95.5,2026-06-15
+1727,Research & Development,Healthcare Representative,3,100,2,3,98.4,2026-06-15
+1728,Research & Development,Manufacturing Director,3,100,3,3,100.0,2026-06-15
+1729,Research & Development,Research Scientist,3,100,4,2,98.1,2026-06-15
+1731,Sales,Sales Executive,3,89,2,1,95.0,2026-06-15
+1732,Sales,Sales Executive,3,100,4,2,98.2,2026-06-15
+1733,Sales,Sales Executive,3,76,1,3,94.6,2026-06-15
+1734,Sales,Sales Executive,3,69,2,3,94.1,2026-06-15
+1735,Research & Development,Laboratory Technician,3,91,2,1,92.6,2026-06-15
+1736,Research & Development,Manufacturing Director,4,100,4,2,100.0,2026-06-15
+1737,Research & Development,Laboratory Technician,3,100,4,3,90.7,2026-06-15
+1739,Sales,Sales Executive,3,100,3,1,100.0,2026-06-15
+1740,Sales,Manager,3,82,2,2,96.0,2026-06-15
+1744,Human Resources,Human Resources,4,100,3,4,88.4,2026-06-15
+1745,Research & Development,Research Scientist,3,100,1,3,95.5,2026-06-15
+1746,Human Resources,Human Resources,3,100,4,3,85.6,2026-06-15
+1747,Human Resources,Human Resources,3,100,4,2,96.5,2026-06-15
+1749,Sales,Sales Executive,3,100,3,3,97.5,2026-06-15
+1751,Research & Development,Research Scientist,3,100,4,2,91.6,2026-06-15
+1752,Sales,Sales Representative,3,77,2,3,94.5,2026-06-15
+1753,Research & Development,Healthcare Representative,3,100,3,4,100.0,2026-06-15
+1754,Sales,Sales Executive,3,90,1,3,92.0,2026-06-15
+1755,Research & Development,Research Scientist,3,100,4,3,89.8,2026-06-15
+1756,Sales,Sales Executive,3,100,2,2,99.9,2026-06-15
+1757,Sales,Sales Executive,3,100,4,4,100.0,2026-06-15
+1758,Sales,Sales Executive,4,49,1,2,94.0,2026-06-15
+1760,Research & Development,Laboratory Technician,3,100,2,2,98.0,2026-06-15
+1761,Sales,Sales Executive,3,81,3,3,99.4,2026-06-15
+1762,Research & Development,Research Scientist,3,100,1,3,91.0,2026-06-15
+1763,Research & Development,Healthcare Representative,3,100,3,3,92.1,2026-06-15
+1764,Research & Development,Research Scientist,3,98,2,3,98.9,2026-06-15
+1766,Research & Development,Healthcare Representative,3,100,4,3,100.0,2026-06-15
+1767,Research & Development,Research Scientist,3,100,3,3,96.3,2026-06-15
+1768,Research & Development,Laboratory Technician,4,80,2,2,90.5,2026-06-15
+1770,Research & Development,Research Director,3,92,1,3,100.0,2026-06-15
+1771,Research & Development,Research Scientist,3,100,2,2,91.9,2026-06-15
+1772,Research & Development,Laboratory Technician,4,90,1,3,92.7,2026-06-15
+1774,Sales,Sales Executive,3,100,3,3,95.4,2026-06-15
+1775,Research & Development,Manufacturing Director,4,95,3,2,100.0,2026-06-15
+1778,Human Resources,Human Resources,3,100,4,3,97.4,2026-06-15
+1779,Sales,Sales Executive,3,100,4,3,95.7,2026-06-15
+1780,Sales,Sales Representative,3,83,2,3,95.9,2026-06-15
+1782,Research & Development,Laboratory Technician,3,100,3,3,94.2,2026-06-15
+1783,Research & Development,Laboratory Technician,3,79,1,3,96.2,2026-06-15
+1784,Sales,Sales Executive,3,100,4,3,83.9,2026-06-15
+1786,Research & Development,Manager,3,100,3,3,92.8,2026-06-15
+1787,Sales,Sales Executive,3,100,2,3,95.0,2026-06-15
+1789,Research & Development,Research Director,3,100,4,3,89.4,2026-06-15
+1790,Research & Development,Healthcare Representative,3,100,1,3,95.5,2026-06-15
+1792,Research & Development,Research Scientist,3,81,2,2,93.2,2026-06-15
+1794,Human Resources,Human Resources,3,99,2,2,100.0,2026-06-15
+1797,Sales,Sales Executive,3,100,4,3,100.0,2026-06-15
+1798,Research & Development,Research Scientist,3,100,1,3,92.1,2026-06-15
+1799,Research & Development,Research Scientist,3,100,4,4,93.4,2026-06-15
+1800,Research & Development,Research Director,4,100,3,3,93.7,2026-06-15
+1801,Sales,Sales Executive,3,93,2,3,92.2,2026-06-15
+1802,Research & Development,Laboratory Technician,3,82,1,2,94.8,2026-06-15
+1803,Research & Development,Healthcare Representative,3,81,1,2,91.0,2026-06-15
+1804,Research & Development,Manufacturing Director,3,100,4,3,89.5,2026-06-15
+1805,Human Resources,Human Resources,3,86,2,3,96.5,2026-06-15
+1807,Research & Development,Laboratory Technician,3,81,1,2,96.5,2026-06-15
+1809,Research & Development,Manufacturing Director,3,76,1,1,90.8,2026-06-15
+1812,Sales,Sales Executive,3,100,4,3,97.6,2026-06-15
+1813,Research & Development,Research Scientist,3,98,3,2,91.5,2026-06-15
+1814,Research & Development,Healthcare Representative,3,70,2,1,95.0,2026-06-15
+1815,Sales,Sales Executive,3,100,3,4,97.3,2026-06-15
+1816,Research & Development,Manufacturing Director,3,100,3,3,93.9,2026-06-15
+1818,Human Resources,Human Resources,3,100,2,3,95.8,2026-06-15
+1821,Research & Development,Healthcare Representative,4,100,2,4,91.9,2026-06-15
+1822,Research & Development,Healthcare Representative,3,100,4,3,93.2,2026-06-15
+1823,Sales,Sales Executive,4,100,3,3,93.2,2026-06-15
+1824,Sales,Manager,4,100,2,2,91.0,2026-06-15
+1826,Research & Development,Laboratory Technician,3,100,3,4,93.3,2026-06-15
+1827,Research & Development,Manufacturing Director,3,100,2,3,87.8,2026-06-15
+1829,Research & Development,Healthcare Representative,3,86,1,3,92.0,2026-06-15
+1830,Research & Development,Research Scientist,3,100,4,2,92.9,2026-06-15
+1833,Sales,Sales Executive,3,85,1,3,93.0,2026-06-15
+1834,Research & Development,Research Scientist,4,96,1,3,93.0,2026-06-15
+1835,Sales,Sales Representative,4,100,4,2,93.8,2026-06-15
+1836,Sales,Sales Executive,3,100,4,3,95.9,2026-06-15
+1837,Research & Development,Research Director,3,99,3,3,97.5,2026-06-15
+1839,Research & Development,Research Scientist,3,96,3,1,91.4,2026-06-15
+1842,Human Resources,Human Resources,3,96,1,3,89.2,2026-06-15
+1844,Human Resources,Human Resources,3,73,1,3,89.8,2026-06-15
+1845,Sales,Sales Executive,4,100,3,4,92.1,2026-06-15
+1847,Research & Development,Research Scientist,4,100,2,3,92.6,2026-06-15
+1849,Sales,Sales Executive,4,100,4,3,90.9,2026-06-15
+1850,Research & Development,Laboratory Technician,3,100,4,2,88.8,2026-06-15
+1852,Research & Development,Laboratory Technician,3,100,4,4,92.2,2026-06-15
+1853,Sales,Sales Executive,3,100,4,4,94.7,2026-06-15
+1854,Research & Development,Research Scientist,4,100,3,2,96.4,2026-06-15
+1856,Research & Development,Laboratory Technician,3,100,3,3,91.8,2026-06-15
+1857,Research & Development,Manufacturing Director,3,100,4,2,92.3,2026-06-15
+1858,Human Resources,Human Resources,3,100,4,3,90.3,2026-06-15
+1859,Research & Development,Healthcare Representative,3,100,3,3,93.9,2026-06-15
+1860,Research & Development,Laboratory Technician,3,100,3,3,90.6,2026-06-15
+1862,Sales,Sales Executive,3,78,2,2,96.3,2026-06-15
+1863,Sales,Sales Executive,3,84,1,3,86.9,2026-06-15
+1864,Sales,Sales Representative,4,100,3,3,92.6,2026-06-15
+1865,Human Resources,Human Resources,3,100,2,3,95.2,2026-06-15
+1866,Research & Development,Manager,3,100,3,3,94.7,2026-06-15
+1867,Research & Development,Research Director,3,100,2,3,100.0,2026-06-15
+1868,Research & Development,Research Scientist,4,100,4,2,95.4,2026-06-15
+1869,Sales,Sales Executive,4,100,2,3,90.0,2026-06-15
+1870,Research & Development,Research Scientist,3,100,1,2,93.6,2026-06-15
+1871,Research & Development,Research Scientist,3,100,4,3,86.9,2026-06-15
+1873,Research & Development,Research Scientist,4,100,4,4,93.7,2026-06-15
+1875,Sales,Sales Representative,3,100,2,3,90.7,2026-06-15
+1876,Sales,Sales Representative,3,97,4,2,97.7,2026-06-15
+1878,Research & Development,Research Scientist,4,92,2,3,91.8,2026-06-15
+1880,Sales,Sales Executive,3,100,3,3,93.5,2026-06-15
+1881,Research & Development,Laboratory Technician,3,100,3,3,91.5,2026-06-15
+1882,Sales,Sales Executive,3,100,4,3,100.0,2026-06-15
+1883,Research & Development,Laboratory Technician,3,100,1,3,92.7,2026-06-15
+1885,Research & Development,Research Scientist,4,100,1,3,100.0,2026-06-15
+1886,Research & Development,Manufacturing Director,3,100,2,3,97.3,2026-06-15
+1888,Research & Development,Manufacturing Director,3,100,4,2,95.9,2026-06-15
+1890,Human Resources,Human Resources,4,100,4,2,95.5,2026-06-15
+1892,Research & Development,Manager,3,63,1,3,95.6,2026-06-15
+1893,Research & Development,Research Scientist,3,100,3,2,86.3,2026-06-15
+1898,Sales,Sales Executive,3,83,3,2,92.9,2026-06-15
+1900,Research & Development,Manager,3,100,4,3,97.4,2026-06-15
+1903,Research & Development,Healthcare Representative,3,96,1,3,93.8,2026-06-15
+1905,Research & Development,Research Scientist,4,88,1,3,88.4,2026-06-15
+1907,Research & Development,Laboratory Technician,3,100,4,3,93.8,2026-06-15
+1908,Sales,Sales Executive,3,75,2,1,100.0,2026-06-15
+1909,Sales,Sales Executive,4,100,2,3,99.0,2026-06-15
+1911,Research & Development,Research Director,3,100,1,4,93.8,2026-06-15
+1912,Sales,Sales Executive,3,100,4,3,97.8,2026-06-15
+1915,Sales,Sales Executive,3,100,4,2,92.5,2026-06-15
+1916,Research & Development,Laboratory Technician,3,89,3,2,87.2,2026-06-15
+1918,Research & Development,Laboratory Technician,3,100,4,3,90.3,2026-06-15
+1922,Research & Development,Healthcare Representative,3,100,3,3,100.0,2026-06-15
+1924,Sales,Sales Executive,3,92,3,2,92.9,2026-06-15
+1927,Sales,Sales Executive,3,100,4,3,93.0,2026-06-15
+1928,Sales,Sales Representative,3,85,1,3,92.8,2026-06-15
+1929,Sales,Sales Executive,3,100,3,3,100.0,2026-06-15
+1931,Research & Development,Research Scientist,3,85,2,2,100.0,2026-06-15
+1932,Research & Development,Research Scientist,3,100,4,3,100.0,2026-06-15
+1933,Sales,Sales Executive,3,100,3,3,93.4,2026-06-15
+1934,Research & Development,Research Scientist,3,100,2,4,95.2,2026-06-15
+1935,Sales,Sales Executive,3,100,1,3,87.9,2026-06-15
+1936,Research & Development,Manufacturing Director,4,78,1,3,99.9,2026-06-15
+1937,Research & Development,Research Scientist,3,100,2,3,89.3,2026-06-15
+1938,Sales,Manager,3,100,4,2,94.9,2026-06-15
+1939,Research & Development,Research Scientist,3,78,3,3,89.6,2026-06-15
+1940,Research & Development,Research Scientist,3,100,4,4,91.6,2026-06-15
+1941,Research & Development,Research Director,3,100,4,3,90.7,2026-06-15
+1943,Sales,Sales Executive,3,100,4,3,91.6,2026-06-15
+1944,Human Resources,Human Resources,3,76,2,3,91.8,2026-06-15
+1945,Sales,Sales Executive,3,76,1,1,91.8,2026-06-15
+1947,Research & Development,Research Scientist,3,100,3,2,97.3,2026-06-15
+1948,Research & Development,Research Scientist,3,100,1,4,89.6,2026-06-15
+1949,Research & Development,Laboratory Technician,4,84,2,3,94.9,2026-06-15
+1950,Sales,Sales Executive,4,100,4,2,98.9,2026-06-15
+1951,Sales,Sales Executive,3,100,3,2,91.9,2026-06-15
+1952,Research & Development,Laboratory Technician,3,98,1,2,91.1,2026-06-15
+1954,Research & Development,Healthcare Representative,3,68,1,2,93.1,2026-06-15
+1955,Research & Development,Healthcare Representative,3,100,4,3,98.7,2026-06-15
+1956,Research & Development,Research Scientist,4,95,1,3,94.8,2026-06-15
+1960,Research & Development,Laboratory Technician,3,99,4,2,91.9,2026-06-15
+1961,Sales,Sales Representative,3,57,1,2,95.9,2026-06-15
+1962,Sales,Sales Executive,3,100,4,3,89.6,2026-06-15
+1965,Sales,Sales Executive,3,100,4,3,96.7,2026-06-15
+1966,Research & Development,Manufacturing Director,4,100,4,3,95.6,2026-06-15
+1967,Sales,Sales Executive,3,100,4,3,92.8,2026-06-15
+1968,Sales,Sales Executive,3,43,1,2,90.6,2026-06-15
+1969,Research & Development,Research Scientist,3,89,3,2,90.5,2026-06-15
+1970,Research & Development,Healthcare Representative,4,100,3,3,96.1,2026-06-15
+1971,Research & Development,Healthcare Representative,3,96,3,3,98.9,2026-06-15
+1972,Human Resources,Human Resources,3,100,2,3,91.5,2026-06-15
+1973,Human Resources,Manager,3,100,2,3,95.8,2026-06-15
+1974,Research & Development,Laboratory Technician,3,100,4,3,85.7,2026-06-15
+1975,Sales,Sales Executive,3,82,1,3,91.7,2026-06-15
+1976,Research & Development,Research Scientist,3,100,3,3,93.9,2026-06-15
+1979,Research & Development,Research Director,4,100,3,4,90.4,2026-06-15
+1980,Research & Development,Manufacturing Director,3,94,1,3,90.3,2026-06-15
+1981,Research & Development,Healthcare Representative,3,100,3,2,91.3,2026-06-15
+1982,Research & Development,Laboratory Technician,3,100,4,4,95.2,2026-06-15
+1985,Research & Development,Laboratory Technician,3,100,3,4,93.3,2026-06-15
+1986,Sales,Sales Executive,3,100,2,3,85.0,2026-06-15
+1987,Human Resources,Human Resources,3,100,2,3,85.5,2026-06-15
+1989,Research & Development,Laboratory Technician,3,100,2,2,91.6,2026-06-15
+1992,Research & Development,Laboratory Technician,3,100,3,2,95.8,2026-06-15
+1993,Research & Development,Healthcare Representative,4,96,3,3,83.0,2026-06-15
+1994,Research & Development,Laboratory Technician,3,100,3,2,92.0,2026-06-15
+1995,Sales,Sales Executive,3,100,2,3,91.9,2026-06-15
+1996,Sales,Sales Representative,3,100,3,3,99.6,2026-06-15
+1997,Research & Development,Manufacturing Director,3,100,3,3,92.5,2026-06-15
+1998,Research & Development,Research Scientist,3,97,1,2,95.5,2026-06-15
+1999,Research & Development,Research Scientist,4,100,4,3,94.6,2026-06-15
+2000,Research & Development,Research Director,3,83,2,1,85.5,2026-06-15
+2003,Research & Development,Laboratory Technician,3,100,3,3,97.1,2026-06-15
+2007,Research & Development,Research Scientist,3,100,3,4,94.9,2026-06-15
+2008,Research & Development,Research Scientist,3,100,3,3,96.0,2026-06-15
+2009,Research & Development,Healthcare Representative,3,100,4,3,100.0,2026-06-15
+2010,Research & Development,Laboratory Technician,3,100,2,3,85.7,2026-06-15
+2012,Research & Development,Laboratory Technician,3,100,4,2,100.0,2026-06-15
+2013,Sales,Sales Representative,3,94,2,3,92.9,2026-06-15
+2014,Research & Development,Research Scientist,3,100,4,3,95.1,2026-06-15
+2015,Research & Development,Research Director,3,100,3,3,93.8,2026-06-15
+2016,Sales,Sales Executive,3,100,4,3,92.3,2026-06-15
+2017,Research & Development,Research Director,4,100,4,3,91.7,2026-06-15
+2018,Sales,Sales Executive,4,86,3,2,95.3,2026-06-15
+2019,Sales,Sales Representative,3,100,4,2,87.9,2026-06-15
+2020,Research & Development,Research Scientist,3,100,4,3,97.0,2026-06-15
+2021,Sales,Sales Representative,3,100,1,3,92.3,2026-06-15
+2022,Research & Development,Manager,3,100,4,2,89.5,2026-06-15
+2023,Sales,Sales Representative,3,71,1,2,92.2,2026-06-15
+2024,Sales,Sales Executive,3,100,4,3,99.0,2026-06-15
+2025,Research & Development,Manufacturing Director,3,100,2,3,91.9,2026-06-15
+2026,Research & Development,Healthcare Representative,4,100,3,2,95.4,2026-06-15
+2027,Research & Development,Research Scientist,3,100,4,4,91.1,2026-06-15
+2031,Research & Development,Manager,3,78,3,2,97.0,2026-06-15
+2032,Research & Development,Laboratory Technician,3,100,3,1,96.7,2026-06-15
+2034,Research & Development,Manufacturing Director,4,89,2,3,100.0,2026-06-15
+2035,Sales,Sales Executive,4,100,3,3,93.3,2026-06-15
+2036,Sales,Sales Executive,4,100,4,2,96.7,2026-06-15
+2037,Sales,Sales Executive,3,100,2,3,94.4,2026-06-15
+2038,Research & Development,Research Scientist,3,100,1,3,99.2,2026-06-15
+2040,Human Resources,Human Resources,3,100,4,3,91.1,2026-06-15
+2041,Sales,Sales Executive,3,100,4,3,97.0,2026-06-15
+2044,Sales,Sales Executive,3,100,3,3,93.2,2026-06-15
+2045,Sales,Sales Executive,3,100,4,2,93.7,2026-06-15
+2046,Sales,Sales Executive,3,100,3,3,94.4,2026-06-15
+2048,Research & Development,Research Scientist,3,100,3,3,95.0,2026-06-15
+2049,Research & Development,Healthcare Representative,3,100,3,4,93.5,2026-06-15
+2051,Research & Development,Research Scientist,3,100,3,3,94.9,2026-06-15
+2052,Research & Development,Research Scientist,3,100,4,3,100.0,2026-06-15
+2053,Research & Development,Laboratory Technician,3,100,2,3,97.9,2026-06-15
+2054,Research & Development,Research Scientist,3,78,1,1,97.5,2026-06-15
+2055,Sales,Sales Executive,3,78,1,3,92.2,2026-06-15
+2056,Sales,Sales Executive,3,100,4,2,90.4,2026-06-15
+2057,Research & Development,Manufacturing Director,3,79,1,3,97.8,2026-06-15
+2060,Sales,Sales Representative,3,100,3,3,97.5,2026-06-15
+2061,Research & Development,Laboratory Technician,3,100,4,3,99.9,2026-06-15
+2062,Research & Development,Healthcare Representative,3,100,1,3,91.6,2026-06-15
+2064,Research & Development,Manufacturing Director,4,97,2,3,93.1,2026-06-15
+2065,Sales,Sales Executive,3,100,2,2,87.4,2026-06-15
+2068,Research & Development,Laboratory Technician,3,100,3,4,92.4,2026-06-15

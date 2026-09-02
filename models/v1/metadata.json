@@ -1,0 +1,67 @@
+{
+    "model_name": "Attrition Prediction Model",
+    "version": "v1.0",
+    "algorithm": "XGBoost",
+    "training_date": "2026-09-01",
+    "roc_auc": 0.7632,
+    "f1_score": 0.4337,
+    "recall": 0.383,
+    "precision": 0.5,
+    "feature_count": 34,
+    "features": [
+        "Age",
+        "BusinessTravel",
+        "DailyRate",
+        "Department",
+        "DistanceFromHome",
+        "Education",
+        "EducationField",
+        "EnvironmentSatisfaction",
+        "Gender",
+        "HourlyRate",
+        "JobInvolvement",
+        "JobLevel",
+        "JobRole",
+        "JobSatisfaction",
+        "MaritalStatus",
+        "MonthlyIncome",
+        "MonthlyRate",
+        "NumCompaniesWorked",
+        "OverTime",
+        "PercentSalaryHike",
+        "PerformanceRating",
+        "RelationshipSatisfaction",
+        "StockOptionLevel",
+        "TotalWorkingYears",
+        "TrainingTimesLastYear",
+        "WorkLifeBalance",
+        "YearsAtCompany",
+        "YearsInCurrentRole",
+        "YearsSinceLastPromotion",
+        "YearsWithCurrManager",
+        "IncomePerYearAtCompany",
+        "PromotionLagRatio",
+        "TotalSatisfactionScore",
+        "ExperienceRatio"
+    ],
+    "metrics_comparison": {
+        "Logistic Regression": {
+            "Precision": 0.3704,
+            "Recall": 0.6383,
+            "F1-Score": 0.4688,
+            "ROC-AUC": 0.8076
+        },
+        "Random Forest": {
+            "Precision": 0.4211,
+            "Recall": 0.1702,
+            "F1-Score": 0.2424,
+            "ROC-AUC": 0.7795
+        },
+        "XGBoost": {
+            "Precision": 0.5,
+            "Recall": 0.383,
+            "F1-Score": 0.4337,
+            "ROC-AUC": 0.7632
+        }
+    }
+}

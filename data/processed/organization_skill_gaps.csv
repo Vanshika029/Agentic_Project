@@ -1,0 +1,49 @@
+Skill,MissingEmployeeCount,Severity
+Critical Thinking,451,HIGH
+Reading Comprehension,444,HIGH
+Active Listening,335,HIGH
+Monitoring,265,HIGH
+Adobe Acrobat,250,HIGH
+Speaking,210,HIGH
+Writing,159,HIGH
+Adobe Creative Cloud software,146,HIGH
+Science,121,HIGH
+Ada,113,HIGH
+Mathematics,112,HIGH
+Algorithmic software,108,HIGH
+3D graphics software,107,HIGH
+Email software,104,HIGH
+Amazon Elastic Compute Cloud EC2,103,HIGH
+Active Learning,103,HIGH
+Laboratory information management system LIMS,102,HIGH
+Amazon DynamoDB,99,MEDIUM
+C++,98,MEDIUM
+Act!,97,MEDIUM
+Advanced numerical software,97,MEDIUM
+Linux,96,MEDIUM
+Database software,93,MEDIUM
+Apple Keynote,90,MEDIUM
+Adobe ActionScript,90,MEDIUM
+Microsoft Access,89,MEDIUM
+Airtable,79,MEDIUM
+Adobe Photoshop,74,MEDIUM
+Adobe Illustrator,57,MEDIUM
+Adobe InDesign,49,LOW
+Adobe Dreamweaver,49,LOW
+Alteer Office,45,LOW
+Adobe After Effects,40,LOW
+3M Post-it App,37,LOW
+ABB Optimize IT Predict & Control,37,LOW
+ACT! Premium,37,LOW
+AcuStaf,36,LOW
+3DGrid HIPAA Checkup,35,LOW
+Apple Final Cut Pro,33,LOW
+American Medical Association CodeManager,29,LOW
+Allscripts healthcare automation software,28,LOW
+ESRI ArcGIS software,24,LOW
+ADP Workforce Now,24,LOW
+ActionWare,23,LOW
+Graphics software,21,LOW
+Adobe Human Capital Application Solution Accelerator,19,LOW
+Clinical trial management software,14,LOW
+IBM Lotus 1-2-3,11,LOW
